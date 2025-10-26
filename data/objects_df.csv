@@ -1,0 +1,628 @@
+launch_id,name,model,operator,object_id
+1,BADR 3 (Arabsat 3A),Spacebus-3000B2,Arabsat,1
+2,Astra 1C,HS-601,SES S.A.,2
+3,BulgariaSat-1,LS-1300,BulgariaSat,3
+4,Eutelsat Konnect VHTS,Spacebus NEO,Eutelsat Communications S.A.,4
+5,Telecom 2C,Eurostar-2000,France Telecom,5
+6,Rascom 1 (Rascom-QAF 1),Spacebus-4000B3,RascomStar-QAF,6
+7,Rascom 1R (RASCOM-QAF 1R),Spacebus-4000B3,RascomStar-QAF,7
+8,Eutelsat 3B (E3B),Eurostar-3000,Eutelsat Communications S.A.,8
+9,"Eutelsat 4B (E4B, Eutelsat 25A, E25A, Eurobird 2, HotBird 5)",Eurostar-2000+,Eutelsat Communications S.A.,9
+10,"Eutelsat 4A (E4A, Eurobird 4A, RESSAT, Eutelsat W1)",Spacebus-3000B2,Eutelsat Communications S.A.,10
+11,Astra 4A (Sirius 4),A2100AX,SES S.A.,11
+12,"SES 5 (Sirius 5, Astra 4B)",LS-1300,SES S.A.,12
+13,"Eutelsat 7B (E7B, Eutelsat 3D, E3D, W3D, Eutelsat W3D)",Spacebus-4000C3,Eutelsat Communications S.A.,13
+14,Eutelsat 7C,LS-1300,Eutelsat Communications S.A.,14
+15,Eutelsat Konnect (BB4A),Spacebus NEO,Eutelsat Communications S.A.,15
+16,KA-SAT (KASat),Eurostar-3000,ViaSat Inc,16
+17,"Eutelsat 9B (E9B, EDRS-A)",Eurostar-3000,Eutelsat Communications S.A.,17
+18,"Eutelsat 10A (E10A, W2A, Eutelsat W2A)",Spacebus-4000C4,Eutelsat Communications S.A.,18
+19,"Echostar 21 (EchoStar T2, TerreStar 2)",LS-1300S,EchoStar Corporation,19
+20,Eutelsat 10B (E10B),Spacebus NEO,Eutelsat Communications S.A.,20
+21,"Inmarsat GX5 (Inmarsat 5F5, I5F5, GX5)",Spacebus-4000B2,Inmarsat plc,21
+22,"Eutelsat Hot Bird 13F (Hotbird 13F, HB13F)",Eurostar-Neo,Eutelsat Communications S.A.,22
+23,"Eutelsat Hot Bird 13G (Hotbird 13G, HB13G)",Eurostar-Neo,Eutelsat Communications S.A.,23
+24,Angosat 1,USP Bus,Angolan National Space Program Management Office (GGPEN),24
+25,Eutelsat W3B,Spacebus-4000C3,Eutelsat Communications S.A.,25
+26,"Eutelsat 16A (E16A, W3C, Eutelsat W3C)",Spacebus-4000C3,Eutelsat Communications S.A.,26
+27,"Eutelsat 16B (E16B, Eurobird 16, Hotbird 4, HB-4, Atlantic Bird 4, AB-4)",Eurostar-2000+,Eutelsat Communications S.A.,27
+28,Eutelsat W2,Spacebus-3000B2,Eutelsat Communications S.A.,28
+29,"Eutelsat 16C (E16C, Sesat 1, Eutelsat Sesat)",MSS-2500-GSO,Eutelsat Communications S.A.,29
+30,Amos 17,BSS-702MP,Spacecom Satellite Communications,30
+31,Amos 5,Express-1000,Spacecom Satellite Communications,31
+32,Astra 1M,Eurostar-3000,SES S.A.,32
+33,Astra 1N,Eurostar-3000,SES S.A.,33
+34,Astra 2B,Eurostar-2000+,SES S.A.,34
+35,Astra 1L,A2100AXS,SES S.A.,35
+36,Astra 1KR,A2100AXS,SES S.A.,36
+37,Astra 1G,BSS-601HP,SES S.A.,37
+38,Astra 1P (SES 24),Spacebus NEO,SES S.A.,38
+39,Arabsat 5C,Eurostar-3000,Arabsat,39
+40,AfriStar 1 (Afristar),Eurostar-2000+,Worldspace Satellite Radio,40
+41,"Eutelsat 21B (E21B, W6A, Eutelsat W6A)",Spacebus-4000C3,Eutelsat Communications S.A.,41
+42,GovSat-1 (SES 16),GEOStar-3,SES S.A.,42
+43,Angosat 2,Express-1000SN,Angolan National Space Program Management Office (GGPEN),43
+44,Astra 3B,Eurostar-3000,SES S.A.,44
+45,Astra 5B (Hylas 2B),Eurostar-3000,SES S.A.,45
+46,Thor 2A (Thor 2),HS-376HP,Space Norway AS,46
+47,Astra 1E,HS-601,SES S.A.,47
+48,Astra 2D,BSS-376HP,SES S.A.,48
+49,Skynet 5B,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),49
+50,Es'hail 2,DS2000,Es'hailSat,50
+51,"Es'hail 1 (Eutelsat 25B, E25B, Eurobird 2A)",LS-1300,Eutelsat Communications S.A.,51
+52,"Alphasat I-XL (Inmarsat XL, Inmarsat-4AF4)",Alphabus,Inmarsat plc,52
+53,BADR 5 (Arabsat 5B),Eurostar-3000,Arabsat,53
+54,BADR 7 (Arabsat 6B),Eurostar-3000,Arabsat,54
+55,BADR 4 (Arabsat 4B),Eurostar-2000+,Arabsat,55
+56,"BADR 6 (Arabsat 4C, Arabsat 4AR)",Eurostar-2000+,Arabsat,56
+57,BADR 8 (Arabsat 7B),Eurostar-Neo,Arabsat,57
+58,Astra 2F,Eurostar-3000,SES S.A.,58
+59,Astra 2E,Eurostar-3000,SES S.A.,59
+60,Astra 2G,Eurostar-3000,SES S.A.,60
+61,XTAR-EUR (XTAR-EU),LS-1300,XTAR LLC,61
+62,Spainsat NG1 (XTAR-EUR-NG),Eurostar-Neo,XTAR LLC,62
+63,Turksat 5A,Eurostar-3000EOR,Turksat,63
+64,Arabsat 5A,Eurostar-3000,Arabsat,64
+65,Arabsat 6A,A2100A,Arabsat,65
+66,"Intelsat 24 (Amos 1, IS-24)",Amos Bus,Intelsat,66
+67,"Eutelsat 31A (E31A, Eutelsat 33A, E33A, Eurobird 3, eBird 1)",HS-376HP,Eutelsat Communications S.A.,67
+68,Turksat 1C (Türksat 1C),Spacebus-2000,Turksat,68
+69,"Astra 5A (GE 1E, Sirius 2)",Spacebus-3000B2,SES S.A.,69
+70,Intelsat 802 (IS-802),AS-7000,Intelsat,70
+71,"Eutelsat 33F (E33F, Eutelsat Hot Bird 13B, HB13B, HB8, Hotbird 8, Hot Bird 8)",Eurostar-3000,Eutelsat Communications S.A.,71
+72,"Eutelsat 33B (E33B, Eutelsat 25C, E25C, Eutelsat 70A, E70A, W5, Eutelsat W5, Eutelsat-W1)",Spacebus-3000B2,Eutelsat Communications S.A.,72
+73,Galaxy 14 (G-14),GEOStar-2,Intelsat,73
+74,"Intelsat 702 (IS-702, Intelsat 7-F2)",LS-1300,Intelsat,74
+75,"Eutelsat 33E (E33E, Eutelsat Hot bird 13D, Eutelsat 3C, E3C, Hot Bird 10, Hotbird 10, HB-10, AB-4A, Atlantic Bird 4A)",Eurostar-3000,Eutelsat Communications S.A.,75
+76,Zohreh 1 (Venus 1),Express-1000A,Iranian Space Agency (ISA),76
+77,Arabsat 2B,Spacebus-3000A,Arabsat,77
+78,Eutelsat 36D (E36D),Eurostar-Neo,Eutelsat Communications S.A.,78
+79,Express AMU1 (Eutelsat 36C),Eurostar-3000,Russian Satellite Communications Company,79
+80,Paksat-1R,DFH-4 Bus,Pakistan Ministry of Information Technology and Telecommunications,80
+81,"Paksat 1 (Paksat-1, Palapa C1, Anatolia 1, HGS 3)",HS-601,Pakistan Ministry of Information Technology and Telecommunications,81
+82,Athena Fidus,Spacebus-4000B2,Telespazio/CNES,82
+83,Paksat-MM1,DFH-4 Bus,Pakistan Ministry of Information Technology and Telecommunications,83
+84,"HellasSat 4 (HS 4, SaudiGeoSat 1)",A2100A,Hellas-Sat (Arabsat subsidiary),84
+85,"HellasSat 3 (HS 3, Inmarsat-S EAN, Europasat)",Spacebus-4000C3,Hellas-Sat (Arabsat subsidiary),85
+86,Express AM7 (Ekspress-AM7),Eurostar-3000,Russian Satellite Communications Company,86
+87,Express AM1 (Ekspress AM1),MSS-2500-GSO,Russian Satellite Communications Company,87
+88,"Turksat 2A (Eurasiasat 1, Türksat 2A)",Spacebus-3000B3,Turksat,88
+89,Turksat 3A (Türksat 3A),Spacebus-4000B2,Turksat,89
+90,Nigcomsat 1,DFH-4 Bus,NASRDA,90
+91,Turksat 5B,Eurostar-3000EOR,Turksat,91
+92,Nigcomsat 1R,DFH-4 Bus,NASRDA,92
+93,Turksat 4A,DS2000,Turksat,93
+94,Turksat 6A,TAI,Turksat,94
+95,Thuraya 2,BSS-702,Thuraya Telecommunications Co.,95
+96,Astra 1F,HS-601,SES S.A.,96
+97,"Thuraya 4 (Thuraya-4-NGS, Thuraya NGS)",Eurostar-Neo,Thuraya Telecommunications Co.,97
+98,Azerspace 2 (Intelsat 38),LS-1300,AzerCosmos OJS Co,98
+99,"ChinaSat 6A (Zhongxing-6A, ZX-6A, Sinosat 6, Xinnuo 6)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),99
+100,Azerspace (Africasat 1A),GEOStar-2,AzerCosmos OJS Co,100
+101,"Africasat 1 (Measat 1, Afrisat 1)",HS-376,MEASAT Satellite Systems Sdn. Bhd.,101
+102,"Intelsat 709 (IS-709, Intelsat 7-F9)",LS-1300,Intelsat,102
+103,"Intelsat 601 (IS-601, INTELSAT VI F-1)",HS-389,Intelsat,103
+104,GSAT 12,I-1K (I-1000),NewSpace India Ltd (NSIL),104
+105,"Al Yah 2 (Yahsat 1B, Y1B)",Eurostar-3000,Al Yah Satellite Communications Company PrJSC (Yahsat),105
+106,Lybid 1 (Лыбидь-1),Express-1000NT,Ukrkosmos,106
+107,Eutelsat Quantum,GMP-T,Eutelsat Communications S.A.,107
+108,GSAT 19 (GSAT-19E),I-6K (modular) Bus,Indian National Satellite (INSAT),108
+109,GSAT 31,I-2K (I-2000) Bus,NewSpace India Ltd (NSIL),109
+110,"Eutelsat 48C (E21A, W6, Eutelsat W6, Eutelsat W3, Eutelsat 21A)",Spacebus-3000B2,Eutelsat Communications S.A.,110
+111,"Eutelsat 48A (E48A, W48, Eutelsat W48, HB2, Hotbird 2, Hot Bird 2, Eurobird 9)",Eurostar-2000+,Eutelsat Communications S.A.,111
+112,"Eutelsat 48E (E48E, E70C, E36A, W4, Eutelsat W4, E80A)",Spacebus-3000B2,Eutelsat Communications S.A.,112
+113,Insat 4CR,I-2K (I-2000) Bus,Indian National Satellite (INSAT),113
+114,Yamal 601,Spacebus-4000C4,Gazprom Space Systems,114
+115,"Eutelsat 36B (E36B, W7, Eutelsat W7)",Spacebus-4000C4,Eutelsat Communications S.A.,115
+116,Turksat 4B,DS2000,Turksat,116
+117,"Galaxy 26 (G-26, Telstar 6, Intelsat Americas 6, IA-6)",LS-1300,Intelsat,117
+118,NSS 5 (Intelsat 803),AS-7000,SES S.A.,118
+119,Sirius 3,HS-376HP,SES S.A.,119
+120,Thaicom 2,HS-376L,Thaicom Plc.,120
+121,BELINTERSAT-1,DFH-4 Bus,Belintersat,121
+122,"Chinasat 5D (ZX-5D, Apstar 1A)",HS-376,China Satellite Communications Co. Ltd.(China Satcom),122
+123,"Chinasat 15 (Zhongxing 15, ZX-15)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),123
+124,"TurkmenAlem (TurkmenÄlem 520E, Turkmenspace 1, Turkmensat-1, MonacoSat)",Spacebus-4000C2,Turkmen Hemrasy/SSI Monaco,124
+125,"Express AM6 (Ekspress AM6, EAM6, Eutelsat 53A, E53A)",Express-2000,Russian Satellite Communications Company,125
+126,"Al Yah 1 (Yahlive, Y1A, Yahsat Y1A, Yahsat 1A)",Eurostar-3000,Al Yah Satellite Communications Company PrJSC (Yahsat),126
+127,Skynet 5D,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),127
+128,GSAT 16,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),128
+129,GSAT 29,I-3K (I-3000) Bus,Indian National Satellite (INSAT),129
+130,Insat 3E,Insat-2/-3 Bus,Indian National Satellite (INSAT),130
+131,GSAT 8 (Insat 4G),I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),131
+132,Yamal 402 (Yamal 400 KA-2),Spacebus-4000C3,Gazprom Space Systems,132
+133,Express AT1,Express-1000,Russian Satellite Communications Company,133
+134,"Inmarsat GX4 (Inmarsat 5F4, I5F4, GX4)",BSS-702HP,Inmarsat plc,134
+135,Bonum 1,HS-376HP,Russian Satellite Communications Company,135
+136,Directv 1R (DBS 4),HS-601HP,"DirecTV, Inc.",136
+137,Astra 2A,BSS-601HP,SES S.A.,137
+138,NSS 12,LS-1300,SES S.A.,138
+139,Kazsat 3,Express-1000,JSC KazSat,139
+140,"Eutelsat 59A (E59A, Eutelsat 36 West A, E36WA, Eutelsat 12 West A, E12WA, Atlantic Bird 1, AB1)",GeoBus (Italsat-Bus),Eutelsat Communications S.A.,140
+141,Intelsat 33e,BSS-702MP,Intelsat,141
+142,Ovzon-3,SSL-500,Ovzon AB,142
+143,"ABS-4 (ABS 2i, Mobisat-1, MBSAT 1)",LS-1300,ABS,143
+144,Intelsat 39 (IS-39),LS-1300,Intelsat,144
+145,H2Sat (Heinrich Hertz),SmallGEO (Luxor) bus,German Aerospace Center (DLR),145
+146,"Inmarsat GX1 (Inmarsat 5F1, I5-IOR, GX1)",BSS-702HP,Inmarsat plc,146
+147,"Inmarsat-3F1 (Inmarsat 3 F1, I3F1, IOR)",AS-4000,Inmarsat plc,147
+148,"Intelsat 26 (Jcsat 4, Jcsat R, IS-26)",HS-601,Intelsat,148
+149,"Intelsat 12 (IS 12, PAS 12, Europe*Star 1)",LS-1300,Intelsat,149
+150,Intelsat 906 (IS-906),LS-1300,Intelsat,150
+151,Amos 4,Amos Bus,Spacecom Satellite Communications,151
+152,Intelsat 17 (IS-17),LS-1300,Intelsat,152
+153,"Luch (Loutch, Olymp)",Express-2000,Roscosmos (Russian Federal Space Agency),153
+154,"Intelsat 10 (IS 10, PAS 10)",HS-601HP,Intelsat,154
+155,"Intelsat 9 (IS 9, PAS 9, PAS-23)",HS-601HP,Intelsat,155
+156,"Intelsat 704 (IS-704, Intelsat 7-F4)",LS-1300,Intelsat,156
+157,"Galaxy 27 (G-27, Intelsat IA-7, Telstar 7)",LS-1300,Intelsat,157
+158,"ABS-1A (Mugungwa 2, Koreasat 2)",AS-3000,ABS,158
+159,"GSat 20 (GSat N2, CMS 03)",I-4K (I-4000) Bus,Indian National Satellite (INSAT),159
+160,Intelsat 36,LS-1300,Intelsat,160
+161,Intelsat 20 (IS-20),LS-1300,Intelsat,161
+162,"Eutelsat 70B (E70B, W5A, Eutelsat W5A)",Eurostar-3000,Eutelsat Communications S.A.,162
+163,"Eutelsat 70D (E70D, E33D, Eutelsat 8 West C, E8WC, Eutelsat Hot Bird 13A, HB13A, HB6, HotBird 6, Hot bird 6)",Spacebus-3000B3,Eutelsat Communications S.A.,163
+164,"G-Space 1 (GS 1, Nusantara H-1A)",TBD,PT Pasifik Satelite Nusantara (PSN),164
+165,Intelsat 22 (IS-22),BSS-702MP,Intelsat,165
+166,Intelsat 4 (IS 4),HS-601,Intelsat,166
+167,Edusat (GSat 3),I-2K (I-2000) Bus,Ministry of Education India,167
+168,GSAT 18,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),168
+169,"GSAT 7 (Insat 4F, Rukmini)",I-2K (I-2000) Bus,Indian National Satellite (INSAT),169
+170,GSAT 11,I-6K (modular) Bus,Indian National Satellite (INSAT),170
+171,GSAT 14,I-2K (I-2000) Bus,NewSpace India Ltd (NSIL),171
+172,"ABS-2 (ST 3, Koreasat 8, Condosat 2)",LS-1300,ABS,172
+173,ABS-2A (Mongolsat-1),BSS-702SP,ABS,173
+174,"ABS-1B (Eutelsat W75, Hot Bird 3, Eurobird 10, Eutelsat 2-F9, Eurobird 4, W76)",Eurostar-2000+,ABS,174
+175,APSTAR 7,Spacebus-4000C2,APT Satellite Holdings Ltd.,175
+176,"APSTAR 2R (Telstar 10, APSTAR IIR)",LS-1300,Telesat Canada Ltd.,176
+177,Thaicom 5 (Agrani 2),Spacebus-3000A,Thaicom Plc.,177
+178,Thaicom 6 (Africom 1),GEOStar-2,Thaicom Plc.,178
+179,Thaicom 8,GEOStar-2,Thaicom Plc.,179
+180,Express 80,Express-1000,Russian Satellite Communications Company,180
+181,Telkom 1,A2100A,PT Telekomunikasi Indonesia Tbk,181
+182,"Express AM22 (Sesat 2, Ekspress AM22)",MSS-2500-GSO,Russian Satellite Communications Company,182
+183,Express AM2 (Ekspress AM2),MSS-2500-GSO,Russian Satellite Communications Company,183
+184,Express MD1 (Ekspress MD-1),Yakhta,Russian Satellite Communications Company,184
+185,"Express AM4R (Ekspress AM4R, EAM4R)",Eurostar-3000,Russian Satellite Communications Company,185
+186,"Express AM4 (Ekspress AM4, EAM4)",Eurostar-3000,Russian Satellite Communications Company,186
+187,Tiantong 1 03 (Tiantong-1 03),DFH-4 Bus,China Telecom,187
+188,GSAT 6A,I-2K (I-2000) Bus,Indian National Satellite (INSAT),188
+189,GSAT 30,I-3K (I-3000) Bus,Indian National Satellite (INSAT),189
+190,GSat 12R (CMS 01),I-1K (I-1000),Indian National Satellite (INSAT),190
+191,GSAT 24 (CMS 02),I-3K (I-3000) Bus,Indian National Satellite (INSAT),191
+192,GSAT 10,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),192
+193,GSAT 5P (Insat 4D),I-2K (I-2000) Bus,Indian National Satellite (INSAT),193
+194,GSAT 6 (Insat 4E),I-2K (I-2000) Bus,Indian National Satellite (INSAT),194
+195,Insat 2E (Intelsat APR-2),Insat-2/-3 Bus,Indian National Satellite (INSAT),195
+196,Insat 4A,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),196
+197,Insat 3B,Insat-2/-3 Bus,Indian National Satellite (INSAT),197
+198,JCSat 8 (JCSat 2A),HS-601,SKY Perfect JSAT Corporation,198
+199,"Inmarsat-6 F1 (Inmarsat GX 6A, I6-F1, GX6A)",Eurostar-3000EOR,Inmarsat plc,199
+200,Insat 4B,I-3K (I-3000) Bus,Indian National Satellite (INSAT),200
+201,"Intelsat 15 (IS-15, JCSat 85)",GEOStar-2,Intelsat,201
+202,Kazsat 2,Yakhta,JSC KazSat,202
+203,ST 2,DS2000,Singapore Telecommunications Ltd. (SingTel)/Chunghwa Telecom Co. Ltd.,203
+204,"Chinasat 12 (ZX-15A, Chinasat 15A, ZX-12, Apstar 7B, SupremeSat 1)",Spacebus-4000C2,China Satellite Communications Co. Ltd.(China Satcom),204
+205,Yamal 401 (Yamal 400 KA-1),Express-2000,Gazprom Space Systems,205
+206,Yamal 101 (Yamal 100 KA-1),USP Bus,Gazprom Space Systems,206
+207,Yamal 201 (Yamal 200 KA-1),USP Bus,Gazprom Space Systems,207
+208,"Measat 3 (Measat 3, Malaysia East Asia Sat 3)",BSS-601HP,MEASAT Satellite Systems Sdn. Bhd.,208
+209,Measat 3D,Eurostar-3000,MEASAT Satellite Systems Sdn. Bhd.,209
+210,Measat 3B (Jabiru 2),Eurostar-3000,MEASAT Satellite Systems Sdn. Bhd.,210
+211,Jabiru 1 (Measat 3C),A2100A,NewSat Ltd,211
+212,"ChinaSat 9 (Zhongxing-9, ZX-9)",Spacebus-4000C2,China Satellite Communications Co. Ltd.(China Satcom),212
+213,"ChinaSat 9C (Zhongxing-9C, ZX-9C)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),213
+214,GSAT 15,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),214
+215,GSAT 17,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),215
+216,Insat 3A,Insat-2/-3 Bus,Indian National Satellite (INSAT),216
+217,Insat 3C,Insat-2/-3 Bus,Indian National Satellite (INSAT),217
+218,SES 8,GEOStar-2,SES S.A.,218
+219,"Luch 5V (Loutch-5V, Луч-5В)",Express-1000A,Roscosmos (Russian Federal Space Agency),219
+220,Skynet 5A,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),220
+221,SES 12,Eurostar-3000EOR,SES S.A.,221
+222,Express 103,Express-1000,Russian Satellite Communications Company,222
+223,GSAT 9 (South Asia Satellite),I-2K (I-2000) Bus,Indian National Satellite (INSAT),223
+224,Thuraya 3,BSS-702,Thuraya Telecommunications Co.,224
+225,Chinasat 11,DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),225
+226,AsiaSat 5,LS-1300SX,Asia Satellite Telecommunications Co. Ltd.,226
+227,"ChinaSat 9A (Zhongxing 9A, ZX 9A, Sinosat 4, Xinnuo 4)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),227
+228,"ChinaSat 9B (Zhongxing 9B, ZX 9B)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),228
+229,Tiantong 1 01 (Tiantong-1 01),DFH-4 Bus,China Telecom,229
+230,Express AMU3,Express-1000,Russian Satellite Communications Company,230
+231,Kazsat 1,Yakhta,JSC KazSat,231
+232,Express A2 (Ekspress 6A),MSS-2500-GSO,Russian Satellite Communications Company,232
+233,Express AM3 (Ekspress AM3),MSS-2500-GSO,Russian Satellite Communications Company,233
+234,SilkWave 1 (NYBBSat 1),BSS-702MP,CMMB Vision Holdings Limited,234
+235,Asiastar 1 (Asiastar),Eurostar-2000+,CMMB Vision Holdings Limited,235
+236,Asiasat 7 (AsiaSat 5C),LS-1300,Asia Satellite Telecommunications Co. Ltd.,236
+237,Asiasat 8 (Amos 7),LS-1300,Asia Satellite Telecommunications Co. Ltd.,237
+238,"SES 7 (Protostar 2, Indostar 2, Galaxy 8iR, Cakrawarta 2, Protostar II)",HS-601HP,SES S.A.,238
+239,SES 9,BSS-702HP,SES S.A.,239
+240,Cakrawarta 1 (INDOSTAR 1),GEOStar-1,PT Citra Sari Makmur (CSM),240
+241,Telkom 4 (Merah Putih),LS-1300,PT Telekomunikasi Indonesia Tbk,241
+242,"Inmarsat-2F4 (Inmarsat 2F4, I2F4)",Eurostar-1000,Inmarsat plc,242
+243,BSat 3B,A2100A,Broadcasting Satellite System Corp.,243
+244,"ChinaSat 10 (Zhongxing-10, ZX 10, Sinosat 5, Xinnuo 5, SupremeSat)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),244
+245,BSat 3C (JCSat 110R),A2100A,Broadcasting Satellite System Corp.,245
+246,"Chinasat 16 (Zhongxing 16, ZX-16, Shijian 13, SJ-13)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),246
+247,BSat 3A,A2100A,Broadcasting Satellite System Corp.,247
+248,JCSat 110A (JCSat 15),LS-1300,SKY Perfect JSAT Corporation,248
+249,Bsat 4A,LS-1300,Broadcasting Satellite System Corp.,249
+250,Bsat 4B,LS-1300,Broadcasting Satellite System Corp.,250
+251,"ChinaSat 10R (Zhongxing-10R, ZX 10R)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),251
+252,"Bsat 1A (BSAT 1, B-Sat 1A)",HS-376,Broadcasting Satellite System Corp.,252
+253,"N-SAT-110 (Superbird 5, Superbird D, NSAT 110, N-Sat 110, JCSAT 110)",A2100AX,SKY Perfect JSAT Corporation,253
+254,Bsat 1B (B-Sat 1B),HS-376,Broadcasting Satellite System Corp.,254
+255,Bsat 2A (B-Sat 2A),GEOStar-1,Broadcasting Satellite System Corp.,255
+256,Bsat 2C (B-Sat 2C),GEOStar-1,Broadcasting Satellite System Corp.,256
+257,Koreasat 5 (Mugungwha 5),Spacebus-4000C1,KT SAT,257
+258,Palapa D (Palapa D1),Spacebus-4000B3,PT Indosat Tbk,258
+259,"Koreasat 5A (Mugungwha 5A, Hayasat)",Spacebus-4000B2,KT SAT,259
+260,"Palapa N1 (Nusantara 2, Nusantara Dua)",DFH-4 Bus,PT Pasifik Satelite Nusantara (PSN),260
+261,"Telkomsat 113BT (Merah Putih 2, HTS 113BT)",Spacebus-4000B2,PT Telekomunikasi Indonesia Tbk,261
+262,Koreasat 7 (Mugungwha 7),Spacebus-4000B2,KT SAT,262
+263,ABS-8,BSS-702SP,ABS,263
+264,Nusantara Lima (Nusantara 5),BSS-702MP,PT Pasifik Satelite Nusantara (PSN),264
+265,Chinasat 18 (ZX-18),DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),265
+266,Chinasat 6E (ZX 6E),DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),266
+267,Koreasat 6A (Mugunghwa 6A),Spacebus-4000B2,KT SAT,267
+268,"ABS-7 (Koreasat 3, Mugungwa 3)",A2100A,ABS,268
+269,ChinaSat 6B (ZHONGXING 6B),Spacebus-4000C2,China Satellite Communications Co. Ltd.(China Satcom),269
+270,Telkom 3S,Spacebus-4000B2,PT Telekomunikasi Indonesia Tbk,270
+271,Telkom 3,Express-1000,PT Telekomunikasi Indonesia Tbk,271
+272,"Thaicom 4 (Ipstar 1, Measat 5)",LS-1300SX,Thaicom Plc.,272
+273,"Bangabandhu-1 (BD-1, BS-1)",Spacebus-4000B2,Bangladesh Communication Satellite Company Limited (BCSCL),273
+274,Asiasat 6 (Thaicom 7),LS-1300,Asia Satellite Telecommunications Co. Ltd.,274
+275,Asiasat 2 (Amos 5i),AS-7000,Spacecom Satellite Communications,275
+276,Thaicom 1A,HS-376L,Thaicom Plc.,276
+277,Asiasat 9,LS-1300,Asia Satellite Telecommunications Co. Ltd.,277
+278,Artemis,GeoBus (Italsat-Bus),Avanti Communications Ltd,278
+279,JCSat 4B (JCSat 13),A2100AXS,SKY Perfect JSAT Corporation,279
+280,"APSTAR 9A (ChinaSat 5A, Zhongwei 1, Chinastar 1, ZX-5A)",A2100A,APT Satellite Holdings Ltd.,280
+281,Chinasat 6D (ZX 6D),DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),281
+282,"Chinasat 26 (Zhongxing 26, ZX-26)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),282
+283,Tiantong 1 02 (Tiantong-1 02),DFH-4 Bus,China Telecom,283
+284,COMS 1 (Chollian),Eurostar-3000,Korea Aerospace Research Institute (KARI),284
+285,LAOSat 1 (APStar L),DFH-4 Bus,Laos National Authority for Science and Technology (NAST),285
+286,JCSat 3A (JCSat 10),A2100AXS,SKY Perfect JSAT Corporation,286
+287,Chinasat 6C (ZX-6C),DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),287
+288,"JCSat 5A (JCSat 9, N-Star D)",A2100AXS,SKY Perfect JSAT Corporation,288
+289,Vinasat 1,A2100A,Vietnam Posts and Telecommunications Group (VNPT),289
+290,JCSat RA (JCSat 12),A2100AXS,SKY Perfect JSAT Corporation,290
+291,Vinasat 2,A2100A,Vietnam Posts and Telecommunications Group (VNPT),291
+292,APSTAR 6C,DFH-4 Bus,APT Satellite Holdings Ltd.,292
+293,APSTAR 6D (Shenzhen Star),DFH-4E Bus,APT Satellite Holdings Ltd.,293
+294,APSTAR 6E (MPSat 3),DFH-3E Bus,APT Satellite Holdings Ltd.,294
+295,JCSat 17,A2100A,SKY Perfect JSAT Corporation,295
+296,N-Star-C,GEOStar-2,SKY Perfect JSAT Corporation,296
+297,JCSat 6 (JCSat 4A),HS-601,SKY Perfect JSAT Corporation,297
+298,"Telstar 18 (Apstar 5, Apstar V)",LS-1300,Telesat Canada Ltd.,298
+299,"Telstar 18V (Telstar 18 VANTAGE, APStar 5C)",LS-1300,Telesat Canada Ltd.,299
+300,"NBN-Co 1A (Sky Muster 1, SkyMuster I)",LS-1300,NBN Co Limited,300
+301,Superbird A1 (Superbird A),LS-1300,SKY Perfect JSAT Corporation,301
+302,"Express AM5 (Ekspress AM5, EAM5)",Express-2000,Russian Satellite Communications Company,302
+303,Express AT2,Express-1000K,Russian Satellite Communications Company,303
+304,APSTAR 9 (MySat 1),DFH-4 Bus,APT Satellite Holdings Ltd.,304
+305,ST 1,Eurostar-2000+,Singapore Telecommunications Ltd. (SingTel)/Chunghwa Telecom Co. Ltd.,305
+306,Express AM33 (Ekspress AM33),MSS-2500-GSO,Russian Satellite Communications Company,306
+307,"Inmarsat-4F2 (Inmarsat 4-F2, I4F2, IND-W)",Eurostar-3000GM,Inmarsat plc,307
+308,"Hylas 3 (EDRS-C, Condosat)",SmallGEO (Luxor) bus,Avanti Communications Ltd,308
+309,Superbird C2 (Superbird 7),DS2000,SKY Perfect JSAT Corporation,309
+310,JCSat 16,LS-1300,SKY Perfect JSAT Corporation,310
+311,"NBN-Co 1B (Sky Muster 2, SkyMuster II)",LS-1300,NBN Co Limited,311
+312,Express AMU7,Express-1000,Russian Satellite Communications Company,312
+313,Express MD2 (Ekspress MD2),Khrunichev bus,Russian Satellite Communications Company,313
+314,"Express A4 (Express A1R, Ekspress A1R, Express 41R, Express 41P, Atlantic Bird 14)",MSS-2500-GSO,Russian Satellite Communications Company,314
+315,Asiasat 3S,HS-601HP,Asia Satellite Telecommunications Co. Ltd.,315
+316,"PSN 5 (PSN V, ChinaSat 5B, XINNUO 1, Intelsat APR1, Sinosat 1 )",Spacebus-3000,PT Pasifik Satelite Nusantara (PSN),316
+317,Palapa C2,HS-601,PT Indosat Tbk,317
+318,"Nusantara Satu (PSN VI, PSN 6, Nusantara 1)",LS-1300,PT Pasifik Satelite Nusantara (PSN),318
+319,"Nusantara Tiga (SATRIA, Nusantara 3)",Spacebus NEO,PT Pasifik Satelite Nusantara (PSN),319
+320,"Paksat-MM (PakSat Multi-Mission Satelite 1, Asiasat 4)",HS-601HP,Pakistan Ministry of Information Technology and Telecommunications,320
+321,Measat 2 (Africasat 2),HS-376,MEASAT Satellite Systems Sdn. Bhd.,321
+322,JCSat 1B (JCSat 5),HS-601,SKY Perfect JSAT Corporation,322
+323,BRIsat,LS-1300,PT. Bank Rakyat Indonesia (Persero) Tbk.,323
+324,"JCSat 1C (Kacific-1, JCSat 18, N-SAT-Y12-150E)",BSS-702,SKY Perfect JSAT Corporation,324
+325,Optus D1,GEOStar-2,Optus Communications,325
+326,JCSat 2B (JCSat 14),LS-1300,SKY Perfect JSAT Corporation,326
+327,Optus C1 (Defence C1),LS-1300,Optus Communications/Australian Ministry of Defence,327
+328,Optus D3 (Optus-D3+MEV-01),GEOStar-2,Optus Communications,328
+329,Optus 10,LS-1300,Optus Communications,329
+330,"Intelsat 1R (IS 1R, PAS 1R)",BSS-702,Intelsat,330
+331,"Intelsat 706 (IS-706, Intelsat 7-F6)",LS-1300,Intelsat,331
+332,Telkom 2,GEOStar-2,PT Telekomunikasi Indonesia Tbk,332
+333,"Superbird 3 (Superbird A3, Superbird C)",HS-601,SKY Perfect JSAT Corporation,333
+334,"ABS-6 (ABS 1, LMI 1, Condosat 1)",A2100AX,ABS,334
+335,Optus D2,GEOStar-2,Optus Communications,335
+336,Measat 3A (Measat 1R),GEOStar-2,MEASAT Satellite Systems Sdn. Bhd.,336
+337,Koreasat 6 (Olleh 1),GEOStar-2,KT SAT,337
+338,"Superbird B3 (Superbird 8, DSN-1, Kirameki 1)",DS2000,SKY Perfect JSAT Corporation,338
+339,Superbird B2 (Superbird 4),BSS-601HP,SKY Perfect JSAT Corporation,339
+340,APSTAR 6 (APSTAR 5B),Spacebus-4000C2,APT Satellite Holdings Ltd.,340
+341,Yamal 202 (Yamal 200 KA-2),USP Bus,Gazprom Space Systems,341
+342,"Chinasat 5E (CZ-5E, Apstar 1)",HS-376,China Satellite Communications Co. Ltd.(China Satcom),342
+343,"Chinasat 19 (Zhongxing 19, ZX-19)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),343
+344,Optus B3 (Aussat B3),HS-601,Optus Communications,344
+345,"Intelsat 5 (PAS 5, Arabsat 2C, Badr C)",HS-601HP,Intelsat,345
+346,Intelsat 19 (IS-19),LS-1300,Intelsat,346
+347,"Luch 5A (Loutch-5A, Луч-5А)",Express-1000A,Roscosmos (Russian Federal Space Agency),347
+348,Horizons 3E,BSS-702MP,SKY Perfect JSAT Corporation/Intelsat,348
+349,"Intelsat 8 (IS 8, PAS 8)",LS-1300,Intelsat,349
+350,"Intelsat 2 (IS 2, PAS 2)",HS-601,Intelsat,350
+351,Intelsat 805 (IS-805),AS-7000,Intelsat,351
+352,Eutelsat 172B,Eurostar-3000EOR,Eutelsat Communications S.A.,352
+353,"Eutelsat 174A (ES-174A, ES-172A, AMC 23, Worldsat 3, AMC 13, GE 2i, GE 23)",Spacebus-4000C3,Eutelsat Communications S.A.,353
+354,"NSS 11 (AAP 1, GE 1A, Worldsat 1)",A2100AX,SES S.A.,354
+355,"Intelsat 602 (IS-602, INTELSAT VI F-2)",HS-389,Intelsat,355
+356,"Inmarsat-4F1 (Inmarsat 4-F1, I4F1, PAC-W)",Eurostar-3000GM,Inmarsat plc,356
+357,Intelsat 18 (IS-18),GEOStar-2,Intelsat,357
+358,"Inmarsat GX3 (Inmarsat 5F3, I5-POR, GX3)",BSS-702HP,Inmarsat plc,358
+359,Galaxy 10R (G-10R),HS-601HP,Intelsat,359
+360,NSS 9,GEOStar-2,SES S.A.,360
+361,Yamal 300K,Express-1000,Gazprom Space Systems,361
+362,NSS 6,A2100AX,SES S.A.,362
+363,Thuraya 1,BSS-702,Thuraya Telecommunications Co.,363
+364,"Inmarsat-3F3 (Inmarsat 3F3, I3F3, POR)",AS-4000,Inmarsat plc,364
+365,"Horizons 1 (Galaxy 13, Linkstar 4, Galaxy XIII)",BSS-601HP,SKY Perfect JSAT Corporation/Intelsat,365
+366,"Galaxy 25 (G-25, Intelsat Americas 5 (IA 5), Telstar 5. Moving to 66 East orbital location)",LS-1300,Intelsat,366
+367,"Inmarsat-2F3 (Inmarsat 2F3, I2F3)",Eurostar-1000,Inmarsat plc,367
+368,"Echostar 5 (Ciel-1, Sky 1A, MCI 1)",LS-1300,EchoStar Corporation,368
+369,Echostar 2,AS-7000,EchoStar Corporation,369
+370,"Directv 1 (DBS 1, DBS8402)",HS-601,"DirecTV, Inc.",370
+371,"Hispasat 143W-1 (H143W-1, Hispasat 30W-4, H30W-4, Hispasat 1D)",Spacebus-3000B2,Hispasat,371
+372,"Inmarsat-2F1 (Inmarsat 2F1, I2F1)",Eurostar-1000,Inmarsat plc,372
+373,Spaceway 2 (Spaceway F2),BSS-702,"DirecTV, Inc.",373
+374,Spaceway 1 (Spaceway F1),BSS-702,"DirecTV, Inc.",374
+375,"Eutelsat 139 West A (E139WA, E12WD, E31B, E7A, W3A, Eutelsat W3A)",Eurostar-3000S,Eutelsat Communications S.A.,375
+376,"AMC 6 (GE 6, Rainbow 2)",A2100AX,SES S.A.,376
+377,SES 22,Spacebus-4000B2,SES S.A.,377
+378,Intelsat 905 (IS-905),LS-1300,Intelsat,378
+379,AMC 10 (GE 10),A2100A,SES S.A.,379
+380,AMC 4 (GE 4),A2100AX,SES S.A.,380
+381,AMC 7 (GE 7),A2100A,SES S.A.,381
+382,"AMC 8 (GE 8, Aurora 3, Aurora III)",A2100A,SES S.A.,382
+383,SES 19,GEOStar-3,SES S.A.,383
+384,Galaxy 33 (Galaxy-15R),GEOStar-3,Intelsat,384
+385,"Galaxy 15 (G-15, Galaxy 1RR)",GEOStar-2,Intelsat,385
+386,"Eutelsat 133 West A (E133WA, Eutelsat 33C, E33C, Eutelsat 28A, E28A, Eurobird 1, Eutelsat W1R, Europesat 1)",Spacebus-3000B2,Eutelsat Communications S.A.,386
+387,AMC 1 (GE 1),A2100A,SES S.A.,387
+388,SES 21,BSS-702SP,SES S.A.,388
+389,SES 15,BSS-702SP,SES S.A.,389
+390,Galaxy 34 (Galaxy 12R),GEOStar-3,Intelsat,390
+391,Ciel 2 (Ciel II),Spacebus-4000C4,Ciel Satellite Group & Echostar,391
+392,"Galaxy 12 (Galaxy XII, G-12)",GEOStar-2,Intelsat,392
+393,Galaxy 37 (Horizons 4),LS-1300,Intelsat,393
+394,Galaxy 30 (Galaxy 14R),GEOStar-2,Intelsat,394
+395,AMC 21,GEOStar-2,SES S.A.,395
+396,Galaxy 18 (G-18),LS-1300,Intelsat,396
+397,SBS 6,HS-393,Intelsat,397
+398,"Galaxy 23 (G-23, IA-13, Telstar 13, EchoStar 9)",LS-1300,Dish Network Corporation/Intelsat,398
+399,"Galaxy 31 (Galaxy 23R, PACSTAR-L4)",LS-1300,Intelsat,399
+400,"Directv 7S (DTV 7S, DBS 7S, USABSS-18)",LS-1300,"DirecTV, Inc.",400
+401,Echostar 7,A2100AX,EchoStar Corporation,401
+402,Anik F3,Eurostar-3000S,Telesat Canada Ltd.,402
+403,Directv 8 (AT&T T8),LS-1300,AT&T,403
+404,Echostar 14 (Echostar XIV),LS-1300,EchoStar Corporation,404
+405,Echostar 15,LS-1300,EchoStar Corporation,405
+406,"Eutelsat 117 West A (E117WA, Satmex 8)",LS-1300,Eutelsat Communications S.A.,406
+407,"Eutelsat 117 West B (E117WB, Satmex 9)",BSS-702SP,Eutelsat Communications S.A.,407
+408,"Sirius XM10 (SXM10, SXM-10)",LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,408
+409,Sirius FM-6 (Radiosat 6),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,409
+410,"Sirius XM 5 (SXM-5, XM-5)",LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,410
+411,"ViaSat 1 (VS-1, VIASAT-IOM)",LS-1300,ViaSat Inc,411
+412,MexSat Bicentenario (Mexsat 3),GEOStar-2,Mexican Secretary of Communication and Transportation (SCT),412
+413,"Eutelsat 115 West B (E115WB, Satmex 7)",BSS-702SP,Eutelsat Communications S.A.,413
+414,"Eutelsat 115 West A (E115WA, Satmex 5)",HS-601HP,Eutelsat Communications S.A.,414
+415,Solidaridad 2 (Satmex 4),HS-601,Satellites Mexicanos S.A. de C.V. (Eutelsat),415
+416,"Eutelsat 113 West A (E113WA, Satmex 6)",LS-1300SX,Eutelsat Communications S.A.,416
+417,"MexSat 1 (Mexsat Centenario, MexSat-G1)",BSS-702HP,Mexican Secretary of Communication and Transportation (SCT),417
+418,MexSat 2 (Morelos 3),BSS-702HP,Mexican Secretary of Communication and Transportation (SCT),418
+419,"Echostar T1 (TerreStar 1, CANSAT-24)",LS-1300S,EchoStar Corporation,419
+420,"Wildblue 1 (KaStar 1, iSky 1, WB-1)",LS-1300,ViaSat Inc,420
+421,"Anik F4 (AMC 11, GE 11)",A2100A,Telesat Canada Ltd.,421
+422,Anik F2 (CANSAT KA-4),BSS-702,Telesat Canada Ltd.,422
+423,Echostar 10 (Echostar X),A2100AXS,EchoStar Corporation,423
+424,"Directv 5 (AT&T T5, Tempo 1)",LS-1300,AT&T,424
+425,Echostar 11 (Echostar XI),LS-1300,EchoStar Corporation,425
+426,Echostar 23 (Echostar XXIII),LS-1300,EchoStar Corporation,426
+427,Directv 6 (Tempo 2),LS-1300,"DirecTV, Inc.",427
+428,Anik F1,BSS-702,Telesat Canada Ltd.,428
+429,Telstar 12 (ORION 2),LS-1300,Telesat Canada Ltd.,429
+430,Anik F1R,Eurostar-3000S,Telesat Canada Ltd.,430
+431,Skyterra 2 (MSV 2),BSS-702,LightSquared / Skyterra Communications Inc.,431
+432,"Echostar 17 (Jupiter 1, Spaceway 4)",LS-1300,EchoStar Corporation,432
+433,Anik G1,LS-1300,Telesat Canada Ltd.,433
+434,AMSC 1 (MSAT 2),HS-601,LightSquared / Skyterra Communications Inc.,434
+435,AMC 15,A2100AXS,SES S.A.,435
+436,SES 11 (Echostar 105),Eurostar-3000,SES S.A.,436
+437,"Hylas 1 (HylasOne, Hylas One)",I-2K (I-2000) Bus,Avanti Communications Ltd,437
+438,"Directv 12 (AT&T T12, RB-2A)",BSS-702,AT&T,438
+439,"SES 3 (OS-2, AMC 1R)",GEOStar-2,SES S.A.,439
+440,Directv 15 (AT&T T15),Eurostar-3000,AT&T,440
+441,SES 20,BSS-702SP,SES S.A.,441
+442,SES 18,GEOStar-3,SES S.A.,442
+443,Directv 10 (AT&T T10),BSS-702,AT&T,443
+444,Directv 4S (USABSS-13),BSS-601HP,"DirecTV, Inc.",444
+445,"Directv 9S (AT&T T9S, USABSS-21)",LS-1300,AT&T,445
+446,"SES 1 (AMC 4R, AMC 4R, AMC 5RR, OS-1)",GEOStar-2,SES S.A.,446
+447,Skyterra 1,BSS-702,LightSquared / Skyterra Communications Inc.,447
+448,Directv 16 (AT&T T16),Eurostar-3000,AT&T,448
+449,Galaxy 16 (G-16),LS-1300,Intelsat,449
+450,Directv 11 (AT&T T11),BSS-702,AT&T,450
+451,"Directv 14 (AT&T T14, Directv BSS-99W, RB-1)",LS-1300,AT&T,451
+452,"Inmarsat-4F3 (Inmarsat 4-F3, I4F3, PAC-E)",Eurostar-3000GM,Inmarsat plc,452
+453,"Inmarsat-2F2 (Inmarsat 2F2, I2F2)",Eurostar-1000,Inmarsat plc,453
+454,"Galaxy 19 (G-19, Intelsat Americas-9, IA-9)",LS-1300,Intelsat,454
+455,"Echostar 19 (Jupiter 2, Spaceway 5, Echostar 97)",LS-1300,EchoStar Corporation,455
+456,"Echostar 6 (Sky 1B, MCI 2)",LS-1300,EchoStar Corporation,456
+457,Galaxy 3C (G-3C),BSS-702,Intelsat,457
+458,"Jupiter 3 (Echostar XXIV, Echostar 24, HNS 95W)",LS-1300,EchoStar Corporation,458
+459,Spaceway 3 (Spaceway F3),BSS-702,EchoStar Corporation,459
+460,"Intelsat 30 (ISDLA-1, DLA 1)",LS-1300,Intelsat,460
+461,Intelsat 31 (DLA 2),LS-1300,Intelsat,461
+462,"Echostar G1 (ICO G1, DBSD G1)",LS-1300,EchoStar Corporation,462
+463,Galaxy 11 (G-11),BSS-702,Intelsat,463
+464,Skynet 4D,ECS Bus,Paradigm Secure Communications Ltd (EADS Company),464
+465,Galaxy 35 (Galaxy 3CR),LS-1300,Intelsat,465
+466,Brasilsat B4,HS-376W,Star One (EMBRATEL),466
+467,Star One C1,Spacebus-3000B3,Star One (EMBRATEL),467
+468,"Nimiq 4i (Directv 2, DBS 2)",HS-601,Telesat Canada Ltd.,468
+469,Nimiq 6,LS-1300,Telesat Canada Ltd.,469
+470,Intelsat 40E (TEMPO),LS-1300,Intelsat,470
+471,Galaxy 32 (Galaxy 17R),LS-1300,Intelsat,471
+472,Echostar 3,A2100AX,EchoStar Corporation,472
+473,"Galaxy 28 (G-28, Telstar 8, Intelsat Americas 8, IA 8)",LS-1300S,Intelsat,473
+474,Viasat 3 Americas (VS-3 Americas),BSS-702HP,ViaSat Inc,474
+475,Galaxy 36 (Galaxy 28R),LS-1300,Intelsat,475
+476,Astra 3A,BSS-376HP,SES S.A.,476
+477,"SES 2 (AMC 5R, AMC 26)",GEOStar-2,SES S.A.,477
+478,"Tupac Katari 1 (TKSat 1, Tupac Katari Sat 1)",DFH-4 Bus,Bolivian Space Agency (ABE),478
+479,Sirius FM-5 (Radiosat 5),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,479
+480,Nimiq 2 (Telesat-DTH 2),A2100AX,Telesat Canada Ltd.,480
+481,Nimiq 1 (Telesat-DTH 1),A2100AX,Telesat Canada Ltd.,481
+482,"Echostar 12 (Rainbow 1, Cablevision 1)",A2100AXS,EchoStar Corporation,482
+483,AMC 2 (GE 2),A2100A,SES S.A.,483
+484,AMC 16 (GE 16),A2100AXS,SES S.A.,484
+485,Galaxy 17 (G-17),Spacebus-3000B3,Intelsat,485
+486,Sirius XM7 (SXM-7),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,486
+487,Sirius XM8 (SXM-8),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,487
+488,"Sirius XM9 (SXM9, SXM-9)",LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,488
+489,XM 3 (XM Rhythm),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,489
+490,"Hispasat 84W-1 (H84W-1, Hispasat 1C, DFS 3)",Spacebus-3000B2,Hispasat,490
+491,"Star One D1 (Hispasat 84W-2, H84W-2)",LS-1300,Star One (EMBRATEL),491
+492,"Nuview Alpha (Anuvu Alpha, AstranisAero West)",MicroGEO,Astranis Space Technologies Corp.,492
+493,"Nuview Bravo (Anuvu Bravo, AstranisAero East)",MicroGEO,Astranis Space Technologies Corp.,493
+494,AMC 9,Spacebus-3000B3,SES S.A.,494
+495,AMC 18 (GE 18),A2100A,SES S.A.,495
+496,"Nimiq 3 (DirecTV-3, DBS-3, Nimiq 2i)",HS-601,Telesat Canada Ltd.,496
+497,Nimiq 4,Eurostar-3000S,Telesat Canada Ltd.,497
+498,"AMC 5 (GE 5, Nahuel 1B)",Spacebus-2000,SES S.A.,498
+499,"Intelsat 3R (IS 3R, PAS 3R)",HS-601,Intelsat,499
+500,Galaxy 9 (G-9),HS-376,Intelsat,500
+501,ARSAT 2,ARSat-Bus,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),501
+502,ARSAT SG1 (ARSAT 3),ARSat-Bus,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),502
+503,"Intelsat 603 (IS-603, Intelsar 6 III, Intelsat 6 3)",HS-389,Intelsat,503
+504,SatCom C3,AS-3000,SES S.A.,504
+505,"Sky-Mexico 1 (RB-2, SKYM-1, DIRECTV KU-79W)",GEOStar-2,"DirecTV, Inc.",505
+506,Venesat 1 (Simon Bolivar 1),DFH-4 Bus,Venesat,506
+507,Galaxy 4R (G-4R),HS-601HP,Intelsat,507
+508,QuetzSat 1,LS-1300,SES S.A.,508
+509,Echostar 1 (USABSS-16),AS-7000,EchoStar Corporation,509
+510,Echostar 8,LS-1300,EchoStar Corporation,510
+511,Echostar 4,A2100AX,EchoStar Corporation,511
+512,XM 4 (XM Blues),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,512
+513,"Intelsat 16 (IS-16, PAS-11R)",GEOStar-2,Intelsat,513
+514,Star One C3,GEOStar-2,Star One (EMBRATEL),514
+515,SGDC 1,Spacebus-4000C4,Visiona Tecnologia Espacial S.A.,515
+516,"Hispasat 74W-1 (Amazonas 4, AMZ4, Amazonas 4A)",GEOStar-2,Hispasat,516
+517,Horizons 2,GEOStar-2,SKY Perfect JSAT Corporation/Intelsat,517
+518,Astra 1D,HS-601,SES S.A.,518
+519,Nimiq 5 (EchoStar-72W),LS-1300,Telesat Canada Ltd.,519
+520,Hylas 2,GEOStar-2,Avanti Communications Ltd,520
+521,ARSAT 1,ARSat-Bus,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),521
+522,Nahuel 1,Spacebus-2000,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),522
+523,Astra 2C,BSS-601HP,SES S.A.,523
+524,"AMC 3 (GE 3, Eagle-1)",A2100A,SES S.A.,524
+525,"Star One C4 (Hispasat 70W-1, H70W-1)",LS-1300,Star One (EMBRATEL),525
+526,Viasat 2 (VS-2),BSS-702HP,ViaSat Inc,526
+527,Star One D2,LS-1300,Star One (EMBRATEL),527
+528,Brasilsat B1,HS-376W,Star One (EMBRATEL),528
+529,Brasilsat B2,HS-376W,Star One (EMBRATEL),529
+530,Astra 1H,BSS-601HP,SES S.A.,530
+531,SES 10 (Simón Bolivar 2),Eurostar-3000,SES S.A.,531
+532,SES 17,Spacebus NEO,SES S.A.,532
+533,Eutelsat 65 West A (E65WA),LS-1300,Eutelsat Communications S.A.,533
+534,Brasilsat B3,HS-376W,Star One (EMBRATEL),534
+535,Star One C2,Spacebus-3000B3,Star One (EMBRATEL),535
+536,Telstar 14 (Estrela do Sul 1),LS-1300,Telesat Canada Ltd.,536
+537,Telstar 19V (Telstar 19 VANTAGE),LS-1300,Telesat Canada Ltd.,537
+538,"Telstar 14R (Estrela do Sul 2, EDS 2)",LS-1300,Telesat Canada Ltd.,538
+539,Amazonas 2 (AMZ2),Eurostar-3000,Hispasat,539
+540,Amazonas 3 (AMZ3),LS-1300,Hispasat,540
+541,Echostar 16 (Echostar XVI),LS-1300,EchoStar Corporation,541
+542,Amazonas 5 (AMZ5),LS-1300,Hispasat,542
+543,"Echostar 18 (EchoStar XVIII, USABSS-41)",LS-1300,EchoStar Corporation,543
+544,"Amazonas Nexus (Amazonas Nexus 6, AMZ-NX, Intelsat 46, IS-46)",Spacebus NEO,Hispasat,544
+545,"Intelsat 21 (IS-21, PAS-21)",BSS-702MP,Intelsat,545
+546,"Inmarsat-3F2 (Inmarsat 3F2, I3F2, AOR-E)",AS-4000,Inmarsat plc,546
+547,Intelsat 27 (IS-27),BSS-702MP,Intelsat,547
+548,"Inmarsat GX2 (Inmarsat 5F2, I5-AOR, GX2)",BSS-702HP,Inmarsat plc,548
+549,"Intelsat 34 (IS-34, Hispasat 55W-2, H55W-2)",LS-1300,Intelsat,549
+550,"Inmarsat-3F4 (Inmarsat 3 F4, I3F4, AOR-W)",AS-4000,Inmarsat plc,550
+551,"Inmarsat-3F5 (Inmarsat 3F5, I3F5, IND-W)",AS-4000,Inmarsat plc,551
+552,Intelsat 23 (IS-23),GEOStar-2,Intelsat,552
+553,"Intelsat 707 (IS-707, Intelsat 7-F7)",LS-1300,Intelsat,553
+554,Intelsat 902 (IS-902),LS-1300,Intelsat,554
+555,Intelsat 29E (IS-29E),BSS-702MP,Intelsat,555
+556,AOneSat 1,Express-1000,AOneSat Communications AG,556
+557,SES 14,Eurostar-3000EOR,SES S.A.,557
+558,NSS 703 (Intelsat 703),LS-1300,SES S.A.,558
+559,NSS 806 (Intelsat 806),AS-7000,SES S.A.,559
+560,"Intelsat 14 (IS-14, PAS 14)",LS-1300,Intelsat,560
+561,"Intelsat 11 (IS-11, PAS-11)",GEOStar-2,Intelsat,561
+562,"Intelsat 32e (IS-32e, SKY Brasil-1, Sky-B1)",Eurostar-3000,Intelsat,562
+563,SES 6,Eurostar-3000,SES S.A.,563
+564,XM 1 (XM Roll),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,564
+565,Telstar 11N (Telstar 11R),LS-1300,Telesat Canada Ltd.,565
+566,"NSS 10 (AMC 12, Star One C12, Worldsat 2, GE 1i)",Spacebus-4000C3,SES S.A.,566
+567,Hispasat 55W-1 (Amazonas 1),Eurostar-3000S,Hispasat,567
+568,"Hispasat 36W-1 (H36W-1, Hispasat AG1, HAG1, Hispasat Advanced Generation 1, Hispasat 2A)",SmallGEO (Luxor) bus,Hispasat,568
+569,Skynet 4F,ECS Bus,Paradigm Secure Communications Ltd (EADS Company),569
+570,"Hylas 4 (Hylas Africa, Hylas 5)",GEOStar-3,Avanti Communications Ltd,570
+571,Intelsat 35e,BSS-702MP,Intelsat,571
+572,Intelsat 28 (Intelsat New Dawn),GEOStar-2,Intelsat,572
+573,Intelsat 903 (IS-903),LS-1300,Intelsat,573
+574,"Intelsat 25 (Protostar 1, Protostar I, Chinasat 8, Zhongxing 8, IS-25)",LS-1300,Intelsat,574
+575,"Hispasat 30W-5 (H30W-5, Hispasat 1E)",LS-1300,Hispasat,575
+576,"Hispasat 30W-6 (H30W-6, Hispasat 1F)",LS-1300,Hispasat,576
+577,XTAR-LANT (Spainsat 1),LS-1300,XTAR LLC,577
+578,"Intelsat 705 (IS-705, Intelsat 7-F5)",LS-1300,Intelsat,578
+579,Intelsat 801 (IS-801),AS-7000,Intelsat,579
+580,"Intelsat 701 (IS-701, Intelsat 7-F1)",LS-1300,Intelsat,580
+581,Intelsat 904 (IS-904),LS-1300,Intelsat,581
+582,"Inmarsat-6 F2 (Inmarsat GX 6B, I6-F2, GX6B)",Eurostar-3000EOR,Inmarsat plc,582
+583,"Intelsat 901 (IS-901, IS-901)",LS-1300,Intelsat,583
+584,Intelsat 907 (IS-907),LS-1300,Intelsat,584
+585,XM 2 (XM Rock),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,585
+586,AlComSat 1,DFH-4 Bus,Agence Spatiale Algerienne (ASAL),586
+587,SES 4 (NSS 14),LS-1300,SES S.A.,587
+588,Al Yah 3,GEOStar-2,Al Yah Satellite Communications Company PrJSC (Yahsat),588
+589,NSS 7,A2100AX,SES S.A.,589
+590,Arcturus (Aurora 4A),MicroGEO,Astranis Space Technologies Corp.,590
+591,Skynet 5C,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),591
+592,Intelsat 37e,BSS-702MP,Intelsat,592
+593,"Intelsat 7 (IS-7, PAS-7)",LS-1300,Intelsat,593
+594,"Eutelsat Hot Bird 13E (HB13E, Eutelsat 9A, E9A, Eurobird 9A, Hot Bird 7A, Hotbird 7A)",Spacebus-3000B3,Eutelsat Communications S.A.,594
+595,"ABS-3 (Agila 2, Mabuhay 1, ABS 5)",LS-1300,ABS,595
+596,"Luch 5B (Loutch-5B, Луч-5Б)",Express-1000A,Roscosmos (Russian Federal Space Agency),596
+597,Telstar 12V (Telstar 12 Vantage),Eurostar-3000,Telesat Canada Ltd.,597
+598,Express AM8,Express-1000SN,Russian Satellite Communications Company,598
+599,"Eutelsat 12 West G (E12WG, Eutelsat Hot Bird 13C, HB13C, HB9, Hotbird 9, Hot Bird 9)",Eurostar-3000,Eutelsat Communications S.A.,599
+600,"Eutelsat 12 West E (E12WE, Afghansat 1, E48D, E48B, W2M, Eutelsat W2M, Eutelsat 28B)",I-3K (I-3000) Bus,Eutelsat Communications S.A.,600
+601,"Eutelsat 12 West B (E12WB, E8WA, AB2, Atlantic Bird 2, Eutelsat 8 West A)",Spacebus-3000B2,Eutelsat Communications S.A.,601
+602,Express A3 (Ekspress 3A),MSS-2500-GSO,Russian Satellite Communications Company,602
+603,Express AM44 (Ekspress AM-44),MSS-2500-GSO,Russian Satellite Communications Company,603
+604,"HellasSat 2 (HS 2, Hellas Sat 2, Intelsat K-TV, NSS K-TV)",Eurostar-2000+,Hellas-Sat (Arabsat subsidiary),604
+605,"Eutelsat 8 West D (E8WD, Eutelsat 3A, E3A, XINNUO 3, Sinosat 3, ChinaSat 5C)",DFH-3 Bus,Eutelsat Communications S.A.,605
+606,Telecom 2D,Eurostar-2000,Eutelsat Communications S.A.,606
+607,Eutelsat 8 West B,Spacebus-4000C3,Eutelsat Communications S.A.,607
+608,Nilesat 201,Spacebus-4000B2,Nilesat (The Egyptian Satellite Co.),608
+609,"Eutelsat 7 West A (E7WA, AB7, Atlantic Bird 7, Nilebird, Atlantic Bird 4R, Nilesat 104)",Eurostar-3000,Eutelsat Communications S.A.,609
+610,Kizuna (WINDS),WINDS,JAXA (Japan Aerospace Exploration Agency),610
+611,Nilesat 101,Eurostar-2000,Nilesat (The Egyptian Satellite Co.),611
+612,Nilesat 102,Eurostar-2000,Nilesat (The Egyptian Satellite Co.),612
+613,Nilesat 301,Spacebus-4000B2,Nilesat (The Egyptian Satellite Co.),613
+614,Eutelsat 5 West B (E5WB),GEOStar-2,Eutelsat Communications S.A.,614
+615,"Eutelsat 5 West A (E5WA, AB3, Atlantic Bird 3, Stellat 5)",Spacebus-3000B3,Eutelsat Communications S.A.,615
+616,Amos 2,Amos Bus,Spacecom Satellite Communications,616
+617,Thor 3,HS-376HP,Space Norway AS,617
+618,Amos 3 (Amos 60),Amos Bus,Spacecom Satellite Communications,618
+619,Amos 6,Amos Bus,Spacecom Satellite Communications,619
+620,Amos 8,Amos Bus,Spacecom Satellite Communications,620
+621,Dror 1 (PR-8000),Amos 4000,Government of Israel,621
+622,ABS-3A,BSS-702SP,ABS,622
+623,"Thor 6 (Intelsat 1W, IS-1W)",Spacebus-4000B2,Space Norway AS,623
+624,Thor 7,LS-1300,Space Norway AS,624
+625,Skynet 4E,ECS Bus,Paradigm Secure Communications Ltd (EADS Company),625
+626,"Intelsat 10-02 + MEV2 (Intelsat 1002, Intelsat Alpha-2, Intelsat X-02, IS-1002, MEV 2)",Eurostar-3000,Intelsat,626
+627,Thor 5 (Thor 2R),GEOStar-2,Space Norway AS,627

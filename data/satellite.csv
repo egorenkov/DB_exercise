@@ -1,0 +1,628 @@
+position,status,name,model,operator,launch_place,launch_data
+1 E,retired,BADR 3 (Arabsat 3A),Spacebus-3000B2,Arabsat,2700,26-Feb-1999
+2 E,retired,Astra 1C,HS-601,SES S.A.,2790,12-May-1993
+2 E,active,BulgariaSat-1,LS-1300,BulgariaSat,3669,23-Jun-2017
+3 E,active,Eutelsat Konnect VHTS,Spacebus NEO,Eutelsat Communications S.A.,6396,7-Sep-2022
+3 E,deorbited,Telecom 2C,Eurostar-2000,France Telecom,2283,6-Dec-1995
+3 E,deorbited,Rascom 1 (Rascom-QAF 1),Spacebus-4000B3,RascomStar-QAF,3160,21-Dec-2007
+3 E,active,Rascom 1R (RASCOM-QAF 1R),Spacebus-4000B3,RascomStar-QAF,3050,4-Aug-2010
+3 E,active,Eutelsat 3B (E3B),Eurostar-3000,Eutelsat Communications S.A.,5967,27-May-2014
+4 E,retired,"Eutelsat 4B (E4B, Eutelsat 25A, E25A, Eurobird 2, HotBird 5)",Eurostar-2000+,Eutelsat Communications S.A.,2995,10-Sep-1998
+4 E,retired,"Eutelsat 4A (E4A, Eurobird 4A, RESSAT, Eutelsat W1)",Spacebus-3000B2,Eutelsat Communications S.A.,3250,6-Sep-2000
+5 E,active,Astra 4A (Sirius 4),A2100AX,SES S.A.,4600,18-Nov-2007
+5 E,active,"SES 5 (Sirius 5, Astra 4B)",LS-1300,SES S.A.,6086,9-Jul-2012
+7 E,active,"Eutelsat 7B (E7B, Eutelsat 3D, E3D, W3D, Eutelsat W3D)",Spacebus-4000C3,Eutelsat Communications S.A.,5470,14-May-2013
+7 E,active,Eutelsat 7C,LS-1300,Eutelsat Communications S.A.,3400,20-Jun-2019
+7 E,active,Eutelsat Konnect (BB4A),Spacebus NEO,Eutelsat Communications S.A.,3619,16-Jan-2020
+9 E,active,KA-SAT (KASat),Eurostar-3000,ViaSat Inc,6150,26-Dec-2010
+9 E,active,"Eutelsat 9B (E9B, EDRS-A)",Eurostar-3000,Eutelsat Communications S.A.,5175,30-Jan-2016
+10 E,retired,"Eutelsat 10A (E10A, W2A, Eutelsat W2A)",Spacebus-4000C4,Eutelsat Communications S.A.,5915,3-Apr-2009
+10 E,active,"Echostar 21 (EchoStar T2, TerreStar 2)",LS-1300S,EchoStar Corporation,6900,6-Jun-2017
+10 E,active,Eutelsat 10B (E10B),Spacebus NEO,Eutelsat Communications S.A.,5500,23-Nov-2022
+11 E,active,"Inmarsat GX5 (Inmarsat 5F5, I5F5, GX5)",Spacebus-4000B2,Inmarsat plc,4007,29-Nov-2019
+13 E,active,"Eutelsat Hot Bird 13F (Hotbird 13F, HB13F)",Eurostar-Neo,Eutelsat Communications S.A.,4500,15-Oct-2022
+13 E,active,"Eutelsat Hot Bird 13G (Hotbird 13G, HB13G)",Eurostar-Neo,Eutelsat Communications S.A.,4500,3-Nov-2022
+14 E,failed,Angosat 1,USP Bus,Angolan National Space Program Management Office (GGPEN),1550,26-Dec-2017
+16 E,failed,Eutelsat W3B,Spacebus-4000C3,Eutelsat Communications S.A.,5400,28-Oct-2010
+16 E,active,"Eutelsat 16A (E16A, W3C, Eutelsat W3C)",Spacebus-4000C3,Eutelsat Communications S.A.,5400,7-Oct-2011
+16 E,retired,"Eutelsat 16B (E16B, Eurobird 16, Hotbird 4, HB-4, Atlantic Bird 4, AB-4)",Eurostar-2000+,Eutelsat Communications S.A.,2885,27-Feb-1998
+16 E,deorbited,Eutelsat W2,Spacebus-3000B2,Eutelsat Communications S.A.,2490,5-Oct-1998
+16 E,deorbited,"Eutelsat 16C (E16C, Sesat 1, Eutelsat Sesat)",MSS-2500-GSO,Eutelsat Communications S.A.,2500,17-Apr-2000
+17 E,active,Amos 17,BSS-702MP,Spacecom Satellite Communications,6500,6-Aug-2019
+17 E,failed,Amos 5,Express-1000,Spacecom Satellite Communications,1600,11-Dec-2011
+19 E,active,Astra 1M,Eurostar-3000,SES S.A.,5320,5-Nov-2008
+19 E,active,Astra 1N,Eurostar-3000,SES S.A.,5350,6-Aug-2011
+19 E,retired,Astra 2B,Eurostar-2000+,SES S.A.,3315,14-Sep-2000
+19 E,active,Astra 1L,A2100AXS,SES S.A.,4497,4-May-2007
+19 E,active,Astra 1KR,A2100AXS,SES S.A.,4332,20-Apr-2006
+19 E,retired,Astra 1G,BSS-601HP,SES S.A.,3379,2-Dec-1997
+19 E,active,Astra 1P (SES 24),Spacebus NEO,SES S.A.,5000,20-Jun-2024
+20 E,active,Arabsat 5C,Eurostar-3000,Arabsat,4619,21-Sep-2011
+21 E,retired,AfriStar 1 (Afristar),Eurostar-2000+,Worldspace Satellite Radio,2739,28-Oct-1998
+21 E,active,"Eutelsat 21B (E21B, W6A, Eutelsat W6A)",Spacebus-4000C3,Eutelsat Communications S.A.,5012,10-Nov-2012
+21 E,active,GovSat-1 (SES 16),GEOStar-3,SES S.A.,4230,30-Jan-2018
+23 E,active,Angosat 2,Express-1000SN,Angolan National Space Program Management Office (GGPEN),1550,12-Oct-2022
+23 E,active,Astra 3B,Eurostar-3000,SES S.A.,5472,21-May-2010
+23 E,active,Astra 5B (Hylas 2B),Eurostar-3000,SES S.A.,5755,22-Mar-2014
+23 E,deorbited,Thor 2A (Thor 2),HS-376HP,Space Norway AS,1400,20-May-1997
+23 E,deorbited,Astra 1E,HS-601,SES S.A.,3014,19-Oct-1995
+23 E,deorbited,Astra 2D,BSS-376HP,SES S.A.,1420,19-Dec-2000
+24 E,active,Skynet 5B,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),4635,14-Nov-2007
+25 E,active,Es'hail 2,DS2000,Es'hailSat,5300,15-Nov-2018
+25 E,active,"Es'hail 1 (Eutelsat 25B, E25B, Eurobird 2A)",LS-1300,Eutelsat Communications S.A.,6300,29-Aug-2013
+25 E,active,"Alphasat I-XL (Inmarsat XL, Inmarsat-4AF4)",Alphabus,Inmarsat plc,6650,25-Jul-2013
+26 E,active,BADR 5 (Arabsat 5B),Eurostar-3000,Arabsat,5420,3-Jun-2010
+26 E,active,BADR 7 (Arabsat 6B),Eurostar-3000,Arabsat,5798,10-Nov-2015
+26 E,active,BADR 4 (Arabsat 4B),Eurostar-2000+,Arabsat,3280,9-Nov-2006
+26 E,retired,"BADR 6 (Arabsat 4C, Arabsat 4AR)",Eurostar-2000+,Arabsat,3346,7-Jul-2008
+26 E,active,BADR 8 (Arabsat 7B),Eurostar-Neo,Arabsat,4500,27-May-2023
+28 E,active,Astra 2F,Eurostar-3000,SES S.A.,6000,28-Sep-2012
+28 E,active,Astra 2E,Eurostar-3000,SES S.A.,6052,29-Sep-2013
+28 E,active,Astra 2G,Eurostar-3000,SES S.A.,6000,27-Dec-2014
+29 E,retired,XTAR-EUR (XTAR-EU),LS-1300,XTAR LLC,3640,12-Feb-2005
+29 E,active,Spainsat NG1 (XTAR-EUR-NG),Eurostar-Neo,XTAR LLC,6100,30-Jan-2025
+31 E,active,Turksat 5A,Eurostar-3000EOR,Turksat,3500,8-Jan-2020
+31 E,active,Arabsat 5A,Eurostar-3000,Arabsat,4940,26-Jun-2010
+31 E,active,Arabsat 6A,A2100A,Arabsat,6000,11-Apr-2019
+31 E,retired,"Intelsat 24 (Amos 1, IS-24)",Amos Bus,Intelsat,961,16-May-1996
+31 E,retired,"Eutelsat 31A (E31A, Eutelsat 33A, E33A, Eurobird 3, eBird 1)",HS-376HP,Eutelsat Communications S.A.,1525,27-Sep-2003
+31 E,deorbited,Turksat 1C (Türksat 1C),Spacebus-2000,Turksat,1747,9-Jul-1996
+32 E,failed,"Astra 5A (GE 1E, Sirius 2)",Spacebus-3000B2,SES S.A.,2888,12-Nov-1997
+33 E,deorbited,Intelsat 802 (IS-802),AS-7000,Intelsat,3447,26-Jun-1997
+33 E,active,"Eutelsat 33F (E33F, Eutelsat Hot Bird 13B, HB13B, HB8, Hotbird 8, Hot Bird 8)",Eurostar-3000,Eutelsat Communications S.A.,4875,4-Aug-2006
+33 E,retired,"Eutelsat 33B (E33B, Eutelsat 25C, E25C, Eutelsat 70A, E70A, W5, Eutelsat W5, Eutelsat-W1)",Spacebus-3000B2,Eutelsat Communications S.A.,3170,20-Nov-2002
+33 E,retired,Galaxy 14 (G-14),GEOStar-2,Intelsat,2087,13-Aug-2005
+33 E,deorbited,"Intelsat 702 (IS-702, Intelsat 7-F2)",LS-1300,Intelsat,3695,17-Jun-1994
+33 E,retired,"Eutelsat 33E (E33E, Eutelsat Hot bird 13D, Eutelsat 3C, E3C, Hot Bird 10, Hotbird 10, HB-10, AB-4A, Atlantic Bird 4A)",Eurostar-3000,Eutelsat Communications S.A.,4892,12-Feb-2009
+34 E,disabled,Zohreh 1 (Venus 1),Express-1000A,Iranian Space Agency (ISA),950,30-Dec-2015
+35 E,retired,Arabsat 2B,Spacebus-3000A,Arabsat,2661,13-Nov-1996
+36 E,active,Eutelsat 36D (E36D),Eurostar-Neo,Eutelsat Communications S.A.,5000,30-Mar-2024
+36 E,active,Express AMU1 (Eutelsat 36C),Eurostar-3000,Russian Satellite Communications Company,5900,24-Dec-2015
+38 E,active,Paksat-1R,DFH-4 Bus,Pakistan Ministry of Information Technology and Telecommunications,5115,11-Aug-2011
+38 E,retired,"Paksat 1 (Paksat-1, Palapa C1, Anatolia 1, HGS 3)",HS-601,Pakistan Ministry of Information Technology and Telecommunications,3000,1-Feb-1996
+38 E,active,Athena Fidus,Spacebus-4000B2,Telespazio/CNES,3080,6-Feb-2014
+38 E,active,Paksat-MM1,DFH-4 Bus,Pakistan Ministry of Information Technology and Telecommunications,5400,30-May-2024
+39 E,active,"HellasSat 4 (HS 4, SaudiGeoSat 1)",A2100A,Hellas-Sat (Arabsat subsidiary),6495,5-Feb-2019
+39 E,active,"HellasSat 3 (HS 3, Inmarsat-S EAN, Europasat)",Spacebus-4000C3,Hellas-Sat (Arabsat subsidiary),5780,28-Jul-2017
+40 E,active,Express AM7 (Ekspress-AM7),Eurostar-3000,Russian Satellite Communications Company,5720,19-Mar-2015
+40 E,retired,Express AM1 (Ekspress AM1),MSS-2500-GSO,Russian Satellite Communications Company,2600,29-Oct-2004
+42 E,retired,"Turksat 2A (Eurasiasat 1, Türksat 2A)",Spacebus-3000B3,Turksat,3535,10-Jan-2001
+42 E,active,Turksat 3A (Türksat 3A),Spacebus-4000B2,Turksat,3070,12-Jun-2008
+42 E,failed,Nigcomsat 1,DFH-4 Bus,NASRDA,5150,13-May-2007
+42 E,active,Turksat 5B,Eurostar-3000EOR,Turksat,4500,19-Dec-2021
+42 E,active,Nigcomsat 1R,DFH-4 Bus,NASRDA,5150,19-Dec-2011
+42 E,active,Turksat 4A,DS2000,Turksat,4910,15-Feb-2014
+42 E,active,Turksat 6A,TAI,Turksat,4300,8-Jul-2024
+44 E,active,Thuraya 2,BSS-702,Thuraya Telecommunications Co.,5250,10-Jun-2003
+44 E,retired,Astra 1F,HS-601,SES S.A.,3010,18-Apr-1996
+44 E,testing,"Thuraya 4 (Thuraya-4-NGS, Thuraya NGS)",Eurostar-Neo,Thuraya Telecommunications Co.,5000,4-Jan-2025
+45 E,active,Azerspace 2 (Intelsat 38),LS-1300,AzerCosmos OJS Co,3500,25-Sep-2018
+45 E,retired,"ChinaSat 6A (Zhongxing-6A, ZX-6A, Sinosat 6, Xinnuo 6)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5100,4-Sep-2010
+46 E,active,Azerspace (Africasat 1A),GEOStar-2,AzerCosmos OJS Co,3275,7-Feb-2013
+46 E,deorbited,"Africasat 1 (Measat 1, Afrisat 1)",HS-376,MEASAT Satellite Systems Sdn. Bhd.,1450,13-Jan-1996
+47 E,retired,"Intelsat 709 (IS-709, Intelsat 7-F9)",LS-1300,Intelsat,4180,15-Jun-1996
+47 E,retired,"Intelsat 601 (IS-601, INTELSAT VI F-1)",HS-389,Intelsat,4330,29-Oct-1991
+48 E,retired,GSAT 12,I-1K (I-1000),NewSpace India Ltd (NSIL),1410,15-Jul-2011
+48 E,active,"Al Yah 2 (Yahsat 1B, Y1B)",Eurostar-3000,Al Yah Satellite Communications Company PrJSC (Yahsat),6050,23-Apr-2012
+48 E,disabled,Lybid 1 (Лыбидь-1),Express-1000NT,Ukrkosmos,1845,30-Dec-2023
+48 E,active,Eutelsat Quantum,GMP-T,Eutelsat Communications S.A.,3461,30-Jul-2021
+48 E,active,GSAT 19 (GSAT-19E),I-6K (modular) Bus,Indian National Satellite (INSAT),3136,5-Jun-2017
+48 E,active,GSAT 31,I-2K (I-2000) Bus,NewSpace India Ltd (NSIL),2536,5-Feb-2019
+48 E,retired,"Eutelsat 48C (E21A, W6, Eutelsat W6, Eutelsat W3, Eutelsat 21A)",Spacebus-3000B2,Eutelsat Communications S.A.,2490,12-Apr-1999
+48 E,retired,"Eutelsat 48A (E48A, W48, Eutelsat W48, HB2, Hotbird 2, Hot Bird 2, Eurobird 9)",Eurostar-2000+,Eutelsat Communications S.A.,2915,21-Nov-1996
+48 E,deorbited,"Eutelsat 48E (E48E, E70C, E36A, W4, Eutelsat W4, E80A)",Spacebus-3000B2,Eutelsat Communications S.A.,3190,24-May-2000
+48 E,retired,Insat 4CR,I-2K (I-2000) Bus,Indian National Satellite (INSAT),2168,2-Sep-2007
+49 E,active,Yamal 601,Spacebus-4000C4,Gazprom Space Systems,5422,30-May-2019
+50 E,active,"Eutelsat 36B (E36B, W7, Eutelsat W7)",Spacebus-4000C4,Eutelsat Communications S.A.,5627,24-Nov-2009
+50 E,active,Turksat 4B,DS2000,Turksat,4977,16-Oct-2015
+50 E,deorbited,"Galaxy 26 (G-26, Telstar 6, Intelsat Americas 6, IA-6)",LS-1300,Intelsat,3765,15-Feb-1999
+50 E,retired,NSS 5 (Intelsat 803),AS-7000,SES S.A.,3412,23-Sep-1997
+51 E,deorbited,Sirius 3,HS-376HP,SES S.A.,1400,5-Oct-1998
+51 E,deorbited,Thaicom 2,HS-376L,Thaicom Plc.,1080,7-Oct-1994
+51 E,active,BELINTERSAT-1,DFH-4 Bus,Belintersat,5223,15-Jan-2016
+52 E,deorbited,"Chinasat 5D (ZX-5D, Apstar 1A)",HS-376,China Satellite Communications Co. Ltd.(China Satcom),1400,3-Jul-1996
+52 E,disabled,"Chinasat 15 (Zhongxing 15, ZX-15)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5400,30-Jun-2016
+52 E,active,"TurkmenAlem (TurkmenÄlem 520E, Turkmenspace 1, Turkmensat-1, MonacoSat)",Spacebus-4000C2,Turkmen Hemrasy/SSI Monaco,4731,28-Apr-2015
+53 E,active,"Express AM6 (Ekspress AM6, EAM6, Eutelsat 53A, E53A)",Express-2000,Russian Satellite Communications Company,3400,21-Oct-2014
+53 E,active,"Al Yah 1 (Yahlive, Y1A, Yahsat Y1A, Yahsat 1A)",Eurostar-3000,Al Yah Satellite Communications Company PrJSC (Yahsat),5935,22-Apr-2011
+53 E,active,Skynet 5D,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),4800,19-Dec-2012
+55 E,active,GSAT 16,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3182,6-Dec-2014
+55 E,active,GSAT 29,I-3K (I-3000) Bus,Indian National Satellite (INSAT),3423,14-Nov-2018
+55 E,retired,Insat 3E,Insat-2/-3 Bus,Indian National Satellite (INSAT),2775,27-Sep-2003
+55 E,active,GSAT 8 (Insat 4G),I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3093,19-May-2011
+55 E,active,Yamal 402 (Yamal 400 KA-2),Spacebus-4000C3,Gazprom Space Systems,4463,8-Dec-2012
+56 E,active,Express AT1,Express-1000,Russian Satellite Communications Company,1726,16-Mar-2014
+56 E,active,"Inmarsat GX4 (Inmarsat 5F4, I5F4, GX4)",BSS-702HP,Inmarsat plc,6086,15-May-2017
+56 E,deorbited,Bonum 1,HS-376HP,Russian Satellite Communications Company,1452,22-Nov-1998
+56 E,deorbited,Directv 1R (DBS 4),HS-601HP,"DirecTV, Inc.",3420,10-Oct-1999
+57 E,retired,Astra 2A,BSS-601HP,SES S.A.,3635,30-Aug-1998
+57 E,active,NSS 12,LS-1300,SES S.A.,5622,29-Oct-2009
+58 E,active,Kazsat 3,Express-1000,JSC KazSat,1800,28-Apr-2014
+59 E,retired,"Eutelsat 59A (E59A, Eutelsat 36 West A, E36WA, Eutelsat 12 West A, E12WA, Atlantic Bird 1, AB1)",GeoBus (Italsat-Bus),Eutelsat Communications S.A.,2700,28-Aug-2002
+60 E,failed,Intelsat 33e,BSS-702MP,Intelsat,6100,24-Aug-2016
+60 E,active,Ovzon-3,SSL-500,Ovzon AB,1800,3-Jan-2024
+61 E,active,"ABS-4 (ABS 2i, Mobisat-1, MBSAT 1)",LS-1300,ABS,4143,13-Mar-2004
+62 E,active,Intelsat 39 (IS-39),LS-1300,Intelsat,6600,6-Aug-2019
+63 E,active,H2Sat (Heinrich Hertz),SmallGEO (Luxor) bus,German Aerospace Center (DLR),3408,5-Jul-2024
+63 E,active,"Inmarsat GX1 (Inmarsat 5F1, I5-IOR, GX1)",BSS-702HP,Inmarsat plc,6070,8-Dec-2013
+64 E,retired,"Inmarsat-3F1 (Inmarsat 3 F1, I3F1, IOR)",AS-4000,Inmarsat plc,2068,2-Apr-1996
+64 E,retired,"Intelsat 26 (Jcsat 4, Jcsat R, IS-26)",HS-601,Intelsat,3105,17-Feb-1997
+64 E,retired,"Intelsat 12 (IS 12, PAS 12, Europe*Star 1)",LS-1300,Intelsat,4167,29-Oct-2000
+64 E,active,Intelsat 906 (IS-906),LS-1300,Intelsat,4723,6-Sep-2002
+65 E,active,Amos 4,Amos Bus,Spacecom Satellite Communications,4200,31-Aug-2013
+66 E,active,Intelsat 17 (IS-17),LS-1300,Intelsat,5540,26-Nov-2010
+66 E,active,"Luch (Loutch, Olymp)",Express-2000,Roscosmos (Russian Federal Space Agency),3358,27-Sep-2014
+66 E,retired,"Intelsat 10 (IS 10, PAS 10)",HS-601HP,Intelsat,3739,14-May-2001
+66 E,retired,"Intelsat 9 (IS 9, PAS 9, PAS-23)",HS-601HP,Intelsat,3659,28-Jul-2000
+66 E,deorbited,"Intelsat 704 (IS-704, Intelsat 7-F4)",LS-1300,Intelsat,3653,10-Jan-1995
+66 E,deorbited,"Galaxy 27 (G-27, Intelsat IA-7, Telstar 7)",LS-1300,Intelsat,3790,25-Sep-1999
+67 E,disabled,"ABS-1A (Mugungwa 2, Koreasat 2)",AS-3000,ABS,1459,14-Jan-1996
+68 E,testing,"GSat 20 (GSat N2, CMS 03)",I-4K (I-4000) Bus,Indian National Satellite (INSAT),4700,18-Nov-2024
+69 E,active,Intelsat 36,LS-1300,Intelsat,3400,24-Aug-2016
+69 E,active,Intelsat 20 (IS-20),LS-1300,Intelsat,6094,2-Aug-2012
+70 E,active,"Eutelsat 70B (E70B, W5A, Eutelsat W5A)",Eurostar-3000,Eutelsat Communications S.A.,5250,3-Dec-2012
+70 E,retired,"Eutelsat 70D (E70D, E33D, Eutelsat 8 West C, E8WC, Eutelsat Hot Bird 13A, HB13A, HB6, HotBird 6, Hot bird 6)",Spacebus-3000B3,Eutelsat Communications S.A.,3800,28-Aug-2002
+71 E,moving,"G-Space 1 (GS 1, Nusantara H-1A)",TBD,PT Pasifik Satelite Nusantara (PSN),22,1-May-2023
+72 E,active,Intelsat 22 (IS-22),BSS-702MP,Intelsat,6249,25-Mar-2012
+72 E,failed,Intelsat 4 (IS 4),HS-601,Intelsat,2920,3-Aug-1995
+74 E,retired,Edusat (GSat 3),I-2K (I-2000) Bus,Ministry of Education India,1951,20-Sep-2004
+74 E,active,GSAT 18,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3404,5-Oct-2016
+74 E,active,"GSAT 7 (Insat 4F, Rukmini)",I-2K (I-2000) Bus,Indian National Satellite (INSAT),2650,29-Aug-2013
+74 E,active,GSAT 11,I-6K (modular) Bus,Indian National Satellite (INSAT),5855,4-Dec-2018
+74 E,active,GSAT 14,I-2K (I-2000) Bus,NewSpace India Ltd (NSIL),1982,5-Jan-2014
+75 E,active,"ABS-2 (ST 3, Koreasat 8, Condosat 2)",LS-1300,ABS,6330,6-Feb-2014
+75 E,active,ABS-2A (Mongolsat-1),BSS-702SP,ABS,1800,14-Jun-2016
+75 E,deorbited,"ABS-1B (Eutelsat W75, Hot Bird 3, Eurobird 10, Eutelsat 2-F9, Eurobird 4, W76)",Eurostar-2000+,ABS,2900,2-Sep-1997
+76 E,active,APSTAR 7,Spacebus-4000C2,APT Satellite Holdings Ltd.,5054,31-Mar-2012
+77 E,retired,"APSTAR 2R (Telstar 10, APSTAR IIR)",LS-1300,Telesat Canada Ltd.,3750,17-Oct-1997
+79 E,retired,Thaicom 5 (Agrani 2),Spacebus-3000A,Thaicom Plc.,2766,27-May-2006
+79 E,active,Thaicom 6 (Africom 1),GEOStar-2,Thaicom Plc.,3016,6-Jan-2014
+79 E,active,Thaicom 8,GEOStar-2,Thaicom Plc.,3100,27-May-2016
+80 E,active,Express 80,Express-1000,Russian Satellite Communications Company,1947,31-Jul-2020
+80 E,failed,Telkom 1,A2100A,PT Telekomunikasi Indonesia Tbk,2763,12-Aug-1999
+80 E,deorbited,"Express AM22 (Sesat 2, Ekspress AM22)",MSS-2500-GSO,Russian Satellite Communications Company,2600,28-Dec-2003
+80 E,retired,Express AM2 (Ekspress AM2),MSS-2500-GSO,Russian Satellite Communications Company,2542,29-Mar-2005
+80 E,failed,Express MD1 (Ekspress MD-1),Yakhta,Russian Satellite Communications Company,1140,11-Feb-2009
+80 E,failed,"Express AM4R (Ekspress AM4R, EAM4R)",Eurostar-3000,Russian Satellite Communications Company,5775,16-May-2014
+80 E,failed,"Express AM4 (Ekspress AM4, EAM4)",Eurostar-3000,Russian Satellite Communications Company,5775,17-Aug-2011
+82 E,active,Tiantong 1 03 (Tiantong-1 03),DFH-4 Bus,China Telecom,5400,19-Jan-2021
+83 E,failed,GSAT 6A,I-2K (I-2000) Bus,Indian National Satellite (INSAT),2117,29-Mar-2018
+83 E,active,GSAT 30,I-3K (I-3000) Bus,Indian National Satellite (INSAT),3357,16-Jan-2020
+83 E,active,GSat 12R (CMS 01),I-1K (I-1000),Indian National Satellite (INSAT),1425,17-Dec-2020
+83 E,active,GSAT 24 (CMS 02),I-3K (I-3000) Bus,Indian National Satellite (INSAT),4181,22-Jun-2022
+83 E,active,GSAT 10,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3400,28-Sep-2012
+83 E,failed,GSAT 5P (Insat 4D),I-2K (I-2000) Bus,Indian National Satellite (INSAT),2330,25-Dec-2010
+83 E,active,GSAT 6 (Insat 4E),I-2K (I-2000) Bus,Indian National Satellite (INSAT),2117,27-Aug-2015
+83 E,deorbited,Insat 2E (Intelsat APR-2),Insat-2/-3 Bus,Indian National Satellite (INSAT),2550,3-Apr-1999
+83 E,deorbited,Insat 4A,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3081,21-Dec-2005
+83 E,retired,Insat 3B,Insat-2/-3 Bus,Indian National Satellite (INSAT),2070,21-Mar-2000
+84 E,deorbited,JCSat 8 (JCSat 2A),HS-601,SKY Perfect JSAT Corporation,2600,29-Mar-2002
+84 E,active,"Inmarsat-6 F1 (Inmarsat GX 6A, I6-F1, GX6A)",Eurostar-3000EOR,Inmarsat plc,5470,21-Dec-2021
+85 E,retired,Insat 4B,I-3K (I-3000) Bus,Indian National Satellite (INSAT),3025,11-Mar-2007
+85 E,active,"Intelsat 15 (IS-15, JCSat 85)",GEOStar-2,Intelsat,2484,30-Nov-2009
+86 E,active,Kazsat 2,Yakhta,JSC KazSat,1272,15-Jul-2011
+88 E,active,ST 2,DS2000,Singapore Telecommunications Ltd. (SingTel)/Chunghwa Telecom Co. Ltd.,5090,20-May-2011
+88 E,active,"Chinasat 12 (ZX-15A, Chinasat 15A, ZX-12, Apstar 7B, SupremeSat 1)",Spacebus-4000C2,China Satellite Communications Co. Ltd.(China Satcom),5054,27-Nov-2012
+90 E,active,Yamal 401 (Yamal 400 KA-1),Express-2000,Gazprom Space Systems,3270,16-Dec-2014
+90 E,retired,Yamal 101 (Yamal 100 KA-1),USP Bus,Gazprom Space Systems,1360,6-Sep-1999
+90 E,failed,Yamal 201 (Yamal 200 KA-1),USP Bus,Gazprom Space Systems,1360,24-Nov-2003
+91 E,deorbited,"Measat 3 (Measat 3, Malaysia East Asia Sat 3)",BSS-601HP,MEASAT Satellite Systems Sdn. Bhd.,4765,11-Dec-2006
+91 E,active,Measat 3D,Eurostar-3000,MEASAT Satellite Systems Sdn. Bhd.,5648,22-Jun-2022
+91 E,active,Measat 3B (Jabiru 2),Eurostar-3000,MEASAT Satellite Systems Sdn. Bhd.,5897,11-Sep-2014
+91 E,disabled,Jabiru 1 (Measat 3C),A2100A,NewSat Ltd,5900,30-Jun-2016
+92 E,active,"ChinaSat 9 (Zhongxing-9, ZX-9)",Spacebus-4000C2,China Satellite Communications Co. Ltd.(China Satcom),4500,9-Jun-2008
+92 E,active,"ChinaSat 9C (Zhongxing-9C, ZX-9C)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),5500,20-Jun-2025
+93 E,active,GSAT 15,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3164,10-Nov-2015
+93 E,active,GSAT 17,I-3K (I-3000) Bus,NewSpace India Ltd (NSIL),3477,28-Jul-2017
+93 E,retired,Insat 3A,Insat-2/-3 Bus,Indian National Satellite (INSAT),2950,9-Apr-2003
+93 E,retired,Insat 3C,Insat-2/-3 Bus,Indian National Satellite (INSAT),2650,23-Jan-2002
+95 E,active,SES 8,GEOStar-2,SES S.A.,3138,3-Dec-2013
+95 E,active,"Luch 5V (Loutch-5V, Луч-5В)",Express-1000A,Roscosmos (Russian Federal Space Agency),1148,28-Apr-2014
+95 E,active,Skynet 5A,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),4700,11-Mar-2007
+95 E,active,SES 12,Eurostar-3000EOR,SES S.A.,5300,4-Jun-2018
+96 E,active,Express 103,Express-1000,Russian Satellite Communications Company,2280,31-Jul-2020
+97 E,active,GSAT 9 (South Asia Satellite),I-2K (I-2000) Bus,Indian National Satellite (INSAT),2195,5-May-2017
+98 E,active,Thuraya 3,BSS-702,Thuraya Telecommunications Co.,5250,15-Jan-2008
+98 E,active,Chinasat 11,DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5100,1-May-2013
+101 E,active,AsiaSat 5,LS-1300SX,Asia Satellite Telecommunications Co. Ltd.,3760,31-Jul-2009
+101 E,retired,"ChinaSat 9A (Zhongxing 9A, ZX 9A, Sinosat 4, Xinnuo 4)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5100,18-Jun-2017
+101 E,active,"ChinaSat 9B (Zhongxing 9B, ZX 9B)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),5500,9-Sep-2021
+101 E,active,Tiantong 1 01 (Tiantong-1 01),DFH-4 Bus,China Telecom,5400,5-Aug-2016
+103 E,active,Express AMU3,Express-1000,Russian Satellite Communications Company,2150,13-Dec-2021
+103 E,deorbited,Kazsat 1,Yakhta,JSC KazSat,1092,17-Jun-2006
+103 E,retired,Express A2 (Ekspress 6A),MSS-2500-GSO,Russian Satellite Communications Company,2500,12-Mar-2000
+103 E,retired,Express AM3 (Ekspress AM3),MSS-2500-GSO,Russian Satellite Communications Company,2600,24-Jun-2005
+105 E,disabled,SilkWave 1 (NYBBSat 1),BSS-702MP,CMMB Vision Holdings Limited,6000,31-Dec-2023
+105 E,active,Asiastar 1 (Asiastar),Eurostar-2000+,CMMB Vision Holdings Limited,2775,21-Mar-2000
+105 E,active,Asiasat 7 (AsiaSat 5C),LS-1300,Asia Satellite Telecommunications Co. Ltd.,3760,25-Nov-2011
+105 E,active,Asiasat 8 (Amos 7),LS-1300,Asia Satellite Telecommunications Co. Ltd.,4535,5-Aug-2014
+108 E,active,"SES 7 (Protostar 2, Indostar 2, Galaxy 8iR, Cakrawarta 2, Protostar II)",HS-601HP,SES S.A.,3905,16-May-2009
+108 E,active,SES 9,BSS-702HP,SES S.A.,5271,28-Feb-2016
+108 E,retired,Cakrawarta 1 (INDOSTAR 1),GEOStar-1,PT Citra Sari Makmur (CSM),1385,12-Nov-1997
+108 E,active,Telkom 4 (Merah Putih),LS-1300,PT Telekomunikasi Indonesia Tbk,5800,7-Aug-2018
+109 E,deorbited,"Inmarsat-2F4 (Inmarsat 2F4, I2F4)",Eurostar-1000,Inmarsat plc,1389,15-Apr-1992
+110 E,active,BSat 3B,A2100A,Broadcasting Satellite System Corp.,2060,28-Oct-2010
+110 E,active,"ChinaSat 10 (Zhongxing-10, ZX 10, Sinosat 5, Xinnuo 5, SupremeSat)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5100,20-Jun-2011
+110 E,active,BSat 3C (JCSat 110R),A2100A,Broadcasting Satellite System Corp.,2910,6-Aug-2011 - 6-Aug-2011
+110 E,active,"Chinasat 16 (Zhongxing 16, ZX-16, Shijian 13, SJ-13)",DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5200,12-Apr-2017
+110 E,retired,BSat 3A,A2100A,Broadcasting Satellite System Corp.,1967,14-Aug-2007
+110 E,active,JCSat 110A (JCSat 15),LS-1300,SKY Perfect JSAT Corporation,3400,20-Dec-2016
+110 E,active,Bsat 4A,LS-1300,Broadcasting Satellite System Corp.,3520,29-Sep-2017
+110 E,active,Bsat 4B,LS-1300,Broadcasting Satellite System Corp.,3530,15-Aug-2020
+110 E,active,"ChinaSat 10R (Zhongxing-10R, ZX 10R)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),5500,22-Feb-2025
+110 E,retired,"Bsat 1A (BSAT 1, B-Sat 1A)",HS-376,Broadcasting Satellite System Corp.,1314,16-Apr-1997
+110 E,retired,"N-SAT-110 (Superbird 5, Superbird D, NSAT 110, N-Sat 110, JCSAT 110)",A2100AX,SKY Perfect JSAT Corporation,3531,7-Oct-2000
+110 E,deorbited,Bsat 1B (B-Sat 1B),HS-376,Broadcasting Satellite System Corp.,1236,28-Apr-1998
+110 E,retired,Bsat 2A (B-Sat 2A),GEOStar-1,Broadcasting Satellite System Corp.,1317,8-Mar-2001
+110 E,deorbited,Bsat 2C (B-Sat 2C),GEOStar-1,Broadcasting Satellite System Corp.,1275,11-Jun-2003
+113 E,active,Koreasat 5 (Mugungwha 5),Spacebus-4000C1,KT SAT,4465,22-Aug-2006
+113 E,retired,Palapa D (Palapa D1),Spacebus-4000B3,PT Indosat Tbk,4100,31-Aug-2009
+113 E,active,"Koreasat 5A (Mugungwha 5A, Hayasat)",Spacebus-4000B2,KT SAT,3700,30-Oct-2017
+113 E,failed,"Palapa N1 (Nusantara 2, Nusantara Dua)",DFH-4 Bus,PT Pasifik Satelite Nusantara (PSN),5550,30-Dec-2020
+113 E,testing,"Telkomsat 113BT (Merah Putih 2, HTS 113BT)",Spacebus-4000B2,PT Telekomunikasi Indonesia Tbk,4000,20-Feb-2024
+116 E,active,Koreasat 7 (Mugungwha 7),Spacebus-4000B2,KT SAT,3680,4-May-2017
+116 E,disabled,ABS-8,BSS-702SP,ABS,Nan,31-Dec-2018
+116 E,moving,Nusantara Lima (Nusantara 5),BSS-702MP,PT Pasifik Satelite Nusantara (PSN),7800,12-Sep-2025
+116 E,failed,Chinasat 18 (ZX-18),DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),5500,19-Aug-2019
+116 E,active,Chinasat 6E (ZX 6E),DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),5500,9-Nov-2023
+116 E,testing,Koreasat 6A (Mugunghwa 6A),Spacebus-4000B2,KT SAT,3500,11-Nov-2024
+116 E,retired,"ABS-7 (Koreasat 3, Mugungwa 3)",A2100A,ABS,3500,4-Sep-1999
+116 E,active,ChinaSat 6B (ZHONGXING 6B),Spacebus-4000C2,China Satellite Communications Co. Ltd.(China Satcom),4600,6-Jul-2007
+118 E,active,Telkom 3S,Spacebus-4000B2,PT Telekomunikasi Indonesia Tbk,3550,14-Feb-2017
+118 E,failed,Telkom 3,Express-1000,PT Telekomunikasi Indonesia Tbk,1903,6-Aug-2012
+119 E,active,"Thaicom 4 (Ipstar 1, Measat 5)",LS-1300SX,Thaicom Plc.,6505,11-Aug-2005
+119 E,active,"Bangabandhu-1 (BD-1, BS-1)",Spacebus-4000B2,Bangladesh Communication Satellite Company Limited (BCSCL),3600,11-May-2018
+120 E,active,Asiasat 6 (Thaicom 7),LS-1300,Asia Satellite Telecommunications Co. Ltd.,3700,7-Sep-2014
+120 E,retired,Asiasat 2 (Amos 5i),AS-7000,Spacecom Satellite Communications,3460,28-Nov-1995
+120 E,deorbited,Thaicom 1A,HS-376L,Thaicom Plc.,1080,18-Dec-1993
+122 E,active,Asiasat 9,LS-1300,Asia Satellite Telecommunications Co. Ltd.,6140,28-Sep-2017
+123 E,retired,Artemis,GeoBus (Italsat-Bus),Avanti Communications Ltd,3105,12-Jul-2001
+124 E,active,JCSat 4B (JCSat 13),A2100AXS,SKY Perfect JSAT Corporation,Nan,15-May-2012
+125 E,retired,"APSTAR 9A (ChinaSat 5A, Zhongwei 1, Chinastar 1, ZX-5A)",A2100A,APT Satellite Holdings Ltd.,2984,30-May-1998
+125 E,active,Chinasat 6D (ZX 6D),DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),Nan,15-Apr-2022
+125 E,active,"Chinasat 26 (Zhongxing 26, ZX-26)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),5000,23-Feb-2023
+125 E,active,Tiantong 1 02 (Tiantong-1 02),DFH-4 Bus,China Telecom,5400,12-Nov-2020
+128 E,active,COMS 1 (Chollian),Eurostar-3000,Korea Aerospace Research Institute (KARI),2460,26-Jun-2010
+128 E,active,LAOSat 1 (APStar L),DFH-4 Bus,Laos National Authority for Science and Technology (NAST),5200,20-Nov-2015
+128 E,active,JCSat 3A (JCSat 10),A2100AXS,SKY Perfect JSAT Corporation,4050,11-Aug-2006
+130 E,active,Chinasat 6C (ZX-6C),DFH-4 Bus,China Satellite Communications Co. Ltd.(China Satcom),Nan,9-Mar-2019
+132 E,active,"JCSat 5A (JCSat 9, N-Star D)",A2100AXS,SKY Perfect JSAT Corporation,4400,12-Apr-2006
+132 E,active,Vinasat 1,A2100A,Vietnam Posts and Telecommunications Group (VNPT),2637,18-Apr-2008
+132 E,active,JCSat RA (JCSat 12),A2100AXS,SKY Perfect JSAT Corporation,4000,21-Aug-2009
+132 E,active,Vinasat 2,A2100A,Vietnam Posts and Telecommunications Group (VNPT),2970,15-May-2012
+134 E,active,APSTAR 6C,DFH-4 Bus,APT Satellite Holdings Ltd.,Nan,4-May-2018
+134 E,active,APSTAR 6D (Shenzhen Star),DFH-4E Bus,APT Satellite Holdings Ltd.,5550,9-Jul-2020
+134 E,active,APSTAR 6E (MPSat 3),DFH-3E Bus,APT Satellite Holdings Ltd.,4300,13-Jan-2023
+136 E,active,JCSat 17,A2100A,SKY Perfect JSAT Corporation,5857,18-Feb-2020
+136 E,retired,N-Star-C,GEOStar-2,SKY Perfect JSAT Corporation,1620,5-Jul-2002
+136 E,retired,JCSat 6 (JCSat 4A),HS-601,SKY Perfect JSAT Corporation,2900,16-Feb-1999
+138 E,retired,"Telstar 18 (Apstar 5, Apstar V)",LS-1300,Telesat Canada Ltd.,4640,29-Jun-2004
+138 E,active,"Telstar 18V (Telstar 18 VANTAGE, APStar 5C)",LS-1300,Telesat Canada Ltd.,7011,10-Sep-2018
+140 E,active,"NBN-Co 1A (Sky Muster 1, SkyMuster I)",LS-1300,NBN Co Limited,6440,30-Sep-2015
+140 E,retired,Superbird A1 (Superbird A),LS-1300,SKY Perfect JSAT Corporation,2489,1-Dec-1992
+140 E,active,"Express AM5 (Ekspress AM5, EAM5)",Express-2000,Russian Satellite Communications Company,3400,26-Dec-2013
+140 E,active,Express AT2,Express-1000K,Russian Satellite Communications Company,1427,16-Mar-2014
+142 E,active,APSTAR 9 (MySat 1),DFH-4 Bus,APT Satellite Holdings Ltd.,5200,17-Oct-2015
+142 E,deorbited,ST 1,Eurostar-2000+,Singapore Telecommunications Ltd. (SingTel)/Chunghwa Telecom Co. Ltd.,3255,25-Aug-1998
+143 E,retired,Express AM33 (Ekspress AM33),MSS-2500-GSO,Russian Satellite Communications Company,2600,28-Jan-2008
+143 E,active,"Inmarsat-4F2 (Inmarsat 4-F2, I4F2, IND-W)",Eurostar-3000GM,Inmarsat plc,5958,8-Nov-2005
+143 E,active,"Hylas 3 (EDRS-C, Condosat)",SmallGEO (Luxor) bus,Avanti Communications Ltd,3185,6-Aug-2019
+144 E,active,Superbird C2 (Superbird 7),DS2000,SKY Perfect JSAT Corporation,4820,14-Aug-2008
+144 E,active,JCSat 16,LS-1300,SKY Perfect JSAT Corporation,4600,14-Aug-2016
+145 E,active,"NBN-Co 1B (Sky Muster 2, SkyMuster II)",LS-1300,NBN Co Limited,6405,5-Oct-2016
+145 E,active,Express AMU7,Express-1000,Russian Satellite Communications Company,1980,13-Dec-2021
+145 E,failed,Express MD2 (Ekspress MD2),Khrunichev bus,Russian Satellite Communications Company,1140,6-Aug-2012
+145 E,deorbited,"Express A4 (Express A1R, Ekspress A1R, Express 41R, Express 41P, Atlantic Bird 14)",MSS-2500-GSO,Russian Satellite Communications Company,2500,10-Jun-2002
+146 E,deorbited,Asiasat 3S,HS-601HP,Asia Satellite Telecommunications Co. Ltd.,3480,21-Mar-1999
+146 E,deorbited,"PSN 5 (PSN V, ChinaSat 5B, XINNUO 1, Intelsat APR1, Sinosat 1 )",Spacebus-3000,PT Pasifik Satelite Nusantara (PSN),2840,18-Jul-1998
+146 E,retired,Palapa C2,HS-601,PT Indosat Tbk,3014,15-May-1996
+146 E,active,"Nusantara Satu (PSN VI, PSN 6, Nusantara 1)",LS-1300,PT Pasifik Satelite Nusantara (PSN),4100,22-Feb-2019
+146 E,active,"Nusantara Tiga (SATRIA, Nusantara 3)",Spacebus NEO,PT Pasifik Satelite Nusantara (PSN),4600,18-Jun-2023
+148 E,moving,"Paksat-MM (PakSat Multi-Mission Satelite 1, Asiasat 4)",HS-601HP,Pakistan Ministry of Information Technology and Telecommunications,4137,12-Apr-2003
+148 E,retired,Measat 2 (Africasat 2),HS-376,MEASAT Satellite Systems Sdn. Bhd.,1450,14-Nov-1996
+150 E,retired,JCSat 1B (JCSat 5),HS-601,SKY Perfect JSAT Corporation,2982,12-Feb-1997
+150 E,active,BRIsat,LS-1300,PT. Bank Rakyat Indonesia (Persero) Tbk.,3540,16-Jun-2016
+150 E,active,"JCSat 1C (Kacific-1, JCSat 18, N-SAT-Y12-150E)",BSS-702,SKY Perfect JSAT Corporation,6800,16-Dec-2019
+152 E,active,Optus D1,GEOStar-2,Optus Communications,2299,13-Oct-2006
+154 E,active,JCSat 2B (JCSat 14),LS-1300,SKY Perfect JSAT Corporation,4696,6-May-2016
+156 E,active,Optus C1 (Defence C1),LS-1300,Optus Communications/Australian Ministry of Defence,4725,12-Jun-2003
+156 E,active,Optus D3 (Optus-D3+MEV-01),GEOStar-2,Optus Communications,2500,21-Aug-2009
+156 E,active,Optus 10,LS-1300,Optus Communications,3270,11-Sep-2014
+157 E,retired,"Intelsat 1R (IS 1R, PAS 1R)",BSS-702,Intelsat,4793,15-Nov-2000
+157 E,deorbited,"Intelsat 706 (IS-706, Intelsat 7-F6)",LS-1300,Intelsat,4180,17-May-1995
+157 E,retired,Telkom 2,GEOStar-2,PT Telekomunikasi Indonesia Tbk,1975,16-Nov-2005
+158 E,deorbited,"Superbird 3 (Superbird A3, Superbird C)",HS-601,SKY Perfect JSAT Corporation,3130,28-Jul-1997
+159 E,active,"ABS-6 (ABS 1, LMI 1, Condosat 1)",A2100AX,ABS,2894,26-Sep-1999
+160 E,retired,Optus D2,GEOStar-2,Optus Communications,2350,5-Oct-2007
+160 E,active,Measat 3A (Measat 1R),GEOStar-2,MEASAT Satellite Systems Sdn. Bhd.,2365,21-Jun-2009
+160 E,active,Koreasat 6 (Olleh 1),GEOStar-2,KT SAT,2850,29-Dec-2010
+162 E,active,"Superbird B3 (Superbird 8, DSN-1, Kirameki 1)",DS2000,SKY Perfect JSAT Corporation,5348,5-Apr-2018
+162 E,retired,Superbird B2 (Superbird 4),BSS-601HP,SKY Perfect JSAT Corporation,4051,18-Feb-2000
+163 E,retired,APSTAR 6 (APSTAR 5B),Spacebus-4000C2,APT Satellite Holdings Ltd.,4680,12-Apr-2005
+163 E,active,Yamal 202 (Yamal 200 KA-2),USP Bus,Gazprom Space Systems,1320,24-Nov-2003
+163 E,retired,"Chinasat 5E (CZ-5E, Apstar 1)",HS-376,China Satellite Communications Co. Ltd.(China Satcom),1400,21-Jul-1994
+163 E,active,"Chinasat 19 (Zhongxing 19, ZX-19)",DFH-4E Bus,China Satellite Communications Co. Ltd.(China Satcom),5000,5-Nov-2022
+164 E,retired,Optus B3 (Aussat B3),HS-601,Optus Communications,2858,28-Aug-1994
+166 E,retired,"Intelsat 5 (PAS 5, Arabsat 2C, Badr C)",HS-601HP,Intelsat,3600,28-Aug-1997
+166 E,active,Intelsat 19 (IS-19),LS-1300,Intelsat,5600,31-May-2012
+167 E,active,"Luch 5A (Loutch-5A, Луч-5А)",Express-1000A,Roscosmos (Russian Federal Space Agency),1140,11-Dec-2011
+169 E,active,Horizons 3E,BSS-702MP,SKY Perfect JSAT Corporation/Intelsat,6441,25-Sep-2018
+169 E,deorbited,"Intelsat 8 (IS 8, PAS 8)",LS-1300,Intelsat,3592,4-Nov-1998
+169 E,deorbited,"Intelsat 2 (IS 2, PAS 2)",HS-601,Intelsat,2920,8-Jul-1994
+169 E,retired,Intelsat 805 (IS-805),AS-7000,Intelsat,3420,18-Jun-1998
+172 E,active,Eutelsat 172B,Eurostar-3000EOR,Eutelsat Communications S.A.,3551,1-Jun-2017
+174 E,active,"Eutelsat 174A (ES-174A, ES-172A, AMC 23, Worldsat 3, AMC 13, GE 2i, GE 23)",Spacebus-4000C3,Eutelsat Communications S.A.,5000,29-Dec-2005
+176 E,active,"NSS 11 (AAP 1, GE 1A, Worldsat 1)",A2100AX,SES S.A.,3582,2-Oct-2000
+178 E,retired,"Intelsat 602 (IS-602, INTELSAT VI F-2)",HS-389,Intelsat,4215,27-Oct-1989
+178 E,active,"Inmarsat-4F1 (Inmarsat 4-F1, I4F1, PAC-W)",Eurostar-3000GM,Inmarsat plc,5959,11-Mar-2005
+180,active,Intelsat 18 (IS-18),GEOStar-2,Intelsat,3200,6-Oct-2011
+180,active,"Inmarsat GX3 (Inmarsat 5F3, I5-POR, GX3)",BSS-702HP,Inmarsat plc,6070,28-Aug-2015
+180,deorbited,Galaxy 10R (G-10R),HS-601HP,Intelsat,3475,24-Jan-2000
+177 W,active,NSS 9,GEOStar-2,SES S.A.,2238,12-Feb-2009
+177 W,active,Yamal 300K,Express-1000,Gazprom Space Systems,1640,2-Nov-2012
+169 W,retired,NSS 6,A2100AX,SES S.A.,4575,17-Dec-2002
+164 W,retired,Thuraya 1,BSS-702,Thuraya Telecommunications Co.,5108,21-Oct-2000
+150 W,moving,"Inmarsat-3F3 (Inmarsat 3F3, I3F3, POR)",AS-4000,Inmarsat plc,2040,18-Dec-1996
+150 W,active,"Horizons 1 (Galaxy 13, Linkstar 4, Galaxy XIII)",BSS-601HP,SKY Perfect JSAT Corporation/Intelsat,4060,1-Oct-2003
+149 W,deorbited,"Galaxy 25 (G-25, Intelsat Americas 5 (IA 5), Telstar 5. Moving to 66 East orbital location)",LS-1300,Intelsat,3515,24-May-1997
+149 W,deorbited,"Inmarsat-2F3 (Inmarsat 2F3, I2F3)",Eurostar-1000,Inmarsat plc,1389,16-Dec-1991
+148 W,deorbited,"Echostar 5 (Ciel-1, Sky 1A, MCI 1)",LS-1300,EchoStar Corporation,3602,23-Sep-1999
+148 W,failed,Echostar 2,AS-7000,EchoStar Corporation,2885,11-Sep-1996
+144 W,retired,"Directv 1 (DBS 1, DBS8402)",HS-601,"DirecTV, Inc.",2923,18-Dec-1993
+143 W,retired,"Hispasat 143W-1 (H143W-1, Hispasat 30W-4, H30W-4, Hispasat 1D)",Spacebus-3000B2,Hispasat,3288,18-Sep-2002
+142 W,deorbited,"Inmarsat-2F1 (Inmarsat 2F1, I2F1)",Eurostar-1000,Inmarsat plc,1382,30-Oct-1990
+139 W,retired,Spaceway 2 (Spaceway F2),BSS-702,"DirecTV, Inc.",6116,16-Nov-2005
+139 W,deorbited,Spaceway 1 (Spaceway F1),BSS-702,"DirecTV, Inc.",6080,26-Apr-2005
+139 W,active,"Eutelsat 139 West A (E139WA, E12WD, E31B, E7A, W3A, Eutelsat W3A)",Eurostar-3000S,Eutelsat Communications S.A.,4300,15-Mar-2004
+139 W,active,"AMC 6 (GE 6, Rainbow 2)",A2100AX,SES S.A.,3901,22-Oct-2000
+139 W,active,SES 22,Spacebus-4000B2,SES S.A.,3500,29-Jun-2022
+137 W,active,Intelsat 905 (IS-905),LS-1300,Intelsat,4723,5-Jun-2002
+135 W,retired,AMC 10 (GE 10),A2100A,SES S.A.,2315,5-Feb-2004
+135 W,deorbited,AMC 4 (GE 4),A2100AX,SES S.A.,3909,13-Nov-1999
+135 W,retired,AMC 7 (GE 7),A2100A,SES S.A.,1935,14-Sep-2000
+135 W,retired,"AMC 8 (GE 8, Aurora 3, Aurora III)",A2100A,SES S.A.,2015,19-Dec-2000
+135 W,active,SES 19,GEOStar-3,SES S.A.,1280,18-Mar-2023
+133 W,active,Galaxy 33 (Galaxy-15R),GEOStar-3,Intelsat,3654,8-Oct-2022
+133 W,failed,"Galaxy 15 (G-15, Galaxy 1RR)",GEOStar-2,Intelsat,2033,13-Oct-2005
+133 W,retired,"Eutelsat 133 West A (E133WA, Eutelsat 33C, E33C, Eutelsat 28A, E28A, Eurobird 1, Eutelsat W1R, Europesat 1)",Spacebus-3000B2,Eutelsat Communications S.A.,2950,8-Mar-2001
+131 W,deorbited,AMC 1 (GE 1),A2100A,SES S.A.,2783,8-Sep-1996
+131 W,active,SES 21,BSS-702SP,SES S.A.,1638,4-Oct-2022
+129 W,active,SES 15,BSS-702SP,SES S.A.,2340,18-May-2017
+129 W,active,Galaxy 34 (Galaxy 12R),GEOStar-3,Intelsat,3695,8-Oct-2022
+129 W,retired,Ciel 2 (Ciel II),Spacebus-4000C4,Ciel Satellite Group & Echostar,5561,10-Dec-2008
+129 W,retired,"Galaxy 12 (Galaxy XII, G-12)",GEOStar-2,Intelsat,1760,9-Apr-2003
+127 W,active,Galaxy 37 (Horizons 4),LS-1300,Intelsat,5063,3-Aug-2023
+125 W,active,Galaxy 30 (Galaxy 14R),GEOStar-2,Intelsat,3298,15-Aug-2020
+125 W,active,AMC 21,GEOStar-2,SES S.A.,2473,14-Aug-2008
+123 W,active,Galaxy 18 (G-18),LS-1300,Intelsat,4642,21-May-2008
+121 W,retired,SBS 6,HS-393,Intelsat,2478,12-Oct-1990
+121 W,retired,"Galaxy 23 (G-23, IA-13, Telstar 13, EchoStar 9)",LS-1300,Dish Network Corporation/Intelsat,4737,8-Aug-2003
+121 W,active,"Galaxy 31 (Galaxy 23R, PACSTAR-L4)",LS-1300,Intelsat,3300,12-Nov-2022
+119 W,deorbited,"Directv 7S (DTV 7S, DBS 7S, USABSS-18)",LS-1300,"DirecTV, Inc.",5483,4-May-2004
+119 W,retired,Echostar 7,A2100AX,EchoStar Corporation,4172,21-Feb-2002
+119 W,active,Anik F3,Eurostar-3000S,Telesat Canada Ltd.,4715,9-Apr-2007
+119 W,active,Directv 8 (AT&T T8),LS-1300,AT&T,3711,22-May-2005
+119 W,active,Echostar 14 (Echostar XIV),LS-1300,EchoStar Corporation,6379,21-Mar-2010
+119 W,active,Echostar 15,LS-1300,EchoStar Corporation,5619,10-Jul-2010
+117 W,active,"Eutelsat 117 West A (E117WA, Satmex 8)",LS-1300,Eutelsat Communications S.A.,5500,27-Mar-2013
+117 W,active,"Eutelsat 117 West B (E117WB, Satmex 9)",BSS-702SP,Eutelsat Communications S.A.,1800,14-Jun-2016
+116 W,active,"Sirius XM10 (SXM10, SXM-10)",LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,7000,7-Jun-2025
+116 W,active,Sirius FM-6 (Radiosat 6),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,6020,25-Oct-2013
+115 W,active,"Sirius XM 5 (SXM-5, XM-5)",LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,5984,14-Oct-2010
+115 W,active,"ViaSat 1 (VS-1, VIASAT-IOM)",LS-1300,ViaSat Inc,6740,19-Oct-2011
+115 W,active,MexSat Bicentenario (Mexsat 3),GEOStar-2,Mexican Secretary of Communication and Transportation (SCT),2935,19-Dec-2012
+115 W,active,"Eutelsat 115 West B (E115WB, Satmex 7)",BSS-702SP,Eutelsat Communications S.A.,2205,2-Mar-2015
+115 W,retired,"Eutelsat 115 West A (E115WA, Satmex 5)",HS-601HP,Eutelsat Communications S.A.,4135,5-Dec-1998
+115 W,retired,Solidaridad 2 (Satmex 4),HS-601,Satellites Mexicanos S.A. de C.V. (Eutelsat),2791,8-Oct-1994
+113 W,failed,"Eutelsat 113 West A (E113WA, Satmex 6)",LS-1300SX,Eutelsat Communications S.A.,5456,27-May-2006
+113 W,failed,"MexSat 1 (Mexsat Centenario, MexSat-G1)",BSS-702HP,Mexican Secretary of Communication and Transportation (SCT),5323,16-May-2015
+113 W,active,MexSat 2 (Morelos 3),BSS-702HP,Mexican Secretary of Communication and Transportation (SCT),5800,2-Oct-2015
+111 W,active,"Echostar T1 (TerreStar 1, CANSAT-24)",LS-1300S,EchoStar Corporation,6910,1-Jul-2009
+111 W,active,"Wildblue 1 (KaStar 1, iSky 1, WB-1)",LS-1300,ViaSat Inc,4735,8-Dec-2006
+111 W,active,"Anik F4 (AMC 11, GE 11)",A2100A,Telesat Canada Ltd.,2340,19-May-2004
+111 W,active,Anik F2 (CANSAT KA-4),BSS-702,Telesat Canada Ltd.,5950,18-Jul-2004
+110 W,active,Echostar 10 (Echostar X),A2100AXS,EchoStar Corporation,4333,15-Feb-2006
+110 W,active,"Directv 5 (AT&T T5, Tempo 1)",LS-1300,AT&T,3640,7-May-2002
+110 W,active,Echostar 11 (Echostar XI),LS-1300,EchoStar Corporation,5511,16-Jul-2008
+110 W,active,Echostar 23 (Echostar XXIII),LS-1300,EchoStar Corporation,5500,16-Mar-2017
+110 W,retired,Directv 6 (Tempo 2),LS-1300,"DirecTV, Inc.",3640,8-Mar-1997
+109 W,retired,Anik F1,BSS-702,Telesat Canada Ltd.,4710,21-Nov-2000
+109 W,retired,Telstar 12 (ORION 2),LS-1300,Telesat Canada Ltd.,3878,19-Oct-1999
+107 W,active,Anik F1R,Eurostar-3000S,Telesat Canada Ltd.,4500,9-Sep-2005
+107 W,disabled,Skyterra 2 (MSV 2),BSS-702,LightSquared / Skyterra Communications Inc.,5639,30-Dec-2016
+107 W,active,"Echostar 17 (Jupiter 1, Spaceway 4)",LS-1300,EchoStar Corporation,6100,5-Jul-2012
+107 W,active,Anik G1,LS-1300,Telesat Canada Ltd.,4905,15-Apr-2013
+107 W,retired,AMSC 1 (MSAT 2),HS-601,LightSquared / Skyterra Communications Inc.,2996,7-Apr-1995
+105 W,active,AMC 15,A2100AXS,SES S.A.,4021,15-Oct-2004
+105 W,active,SES 11 (Echostar 105),Eurostar-3000,SES S.A.,5400,11-Oct-2017
+104 W,moving,"Hylas 1 (HylasOne, Hylas One)",I-2K (I-2000) Bus,Avanti Communications Ltd,2570,26-Nov-2010
+103 W,active,"Directv 12 (AT&T T12, RB-2A)",BSS-702,AT&T,6060,29-Dec-2009
+103 W,active,"SES 3 (OS-2, AMC 1R)",GEOStar-2,SES S.A.,3112,15-Jul-2011
+103 W,active,Directv 15 (AT&T T15),Eurostar-3000,AT&T,6300,27-May-2015
+103 W,active,SES 20,BSS-702SP,SES S.A.,1369,4-Oct-2022
+103 W,active,SES 18,GEOStar-3,SES S.A.,1139,18-Mar-2023
+103 W,active,Directv 10 (AT&T T10),BSS-702,AT&T,5900,7-Jul-2007
+101 W,deorbited,Directv 4S (USABSS-13),BSS-601HP,"DirecTV, Inc.",4260,27-Nov-2001
+101 W,active,"Directv 9S (AT&T T9S, USABSS-21)",LS-1300,AT&T,5535,13-Oct-2006
+101 W,active,"SES 1 (AMC 4R, AMC 4R, AMC 5RR, OS-1)",GEOStar-2,SES S.A.,3170,24-Apr-2010
+101 W,active,Skyterra 1,BSS-702,LightSquared / Skyterra Communications Inc.,5360,14-Nov-2010
+101 W,active,Directv 16 (AT&T T16),Eurostar-3000,AT&T,6350,20-Jun-2019
+99 W,active,Galaxy 16 (G-16),LS-1300,Intelsat,4640,18-Aug-2006
+99 W,active,Directv 11 (AT&T T11),BSS-702,AT&T,5923,19-Mar-2008
+99 W,active,"Directv 14 (AT&T T14, Directv BSS-99W, RB-1)",LS-1300,AT&T,6502,6-Dec-2014
+98 W,active,"Inmarsat-4F3 (Inmarsat 4-F3, I4F3, PAC-E)",Eurostar-3000GM,Inmarsat plc,5960,18-Aug-2008
+98 W,retired,"Inmarsat-2F2 (Inmarsat 2F2, I2F2)",Eurostar-1000,Inmarsat plc,1382,8-Mar-1991
+97 W,active,"Galaxy 19 (G-19, Intelsat Americas-9, IA-9)",LS-1300,Intelsat,4692,24-Sep-2008
+97 W,active,"Echostar 19 (Jupiter 2, Spaceway 5, Echostar 97)",LS-1300,EchoStar Corporation,6637,18-Dec-2016
+96 W,deorbited,"Echostar 6 (Sky 1B, MCI 2)",LS-1300,EchoStar Corporation,3700,14-Jul-2000
+95 W,active,Galaxy 3C (G-3C),BSS-702,Intelsat,4860,15-Jun-2002
+95 W,active,"Jupiter 3 (Echostar XXIV, Echostar 24, HNS 95W)",LS-1300,EchoStar Corporation,9200,29-Jul-2023
+95 W,retired,Spaceway 3 (Spaceway F3),BSS-702,EchoStar Corporation,6075,14-Aug-2007
+95 W,active,"Intelsat 30 (ISDLA-1, DLA 1)",LS-1300,Intelsat,6300,16-Oct-2014
+95 W,active,Intelsat 31 (DLA 2),LS-1300,Intelsat,6450,9-Jun-2016
+93 W,active,"Echostar G1 (ICO G1, DBSD G1)",LS-1300,EchoStar Corporation,6634,14-Apr-2008
+93 W,retired,Galaxy 11 (G-11),BSS-702,Intelsat,4488,21-Jan-1999
+93 W,deorbited,Skynet 4D,ECS Bus,Paradigm Secure Communications Ltd (EADS Company),1500,10-Jan-1998
+93 W,active,Galaxy 35 (Galaxy 3CR),LS-1300,Intelsat,3150,13-Dec-2022
+92 W,retired,Brasilsat B4,HS-376W,Star One (EMBRATEL),2495,17-Aug-2000
+92 W,retired,Star One C1,Spacebus-3000B3,Star One (EMBRATEL),4100,14-Nov-2007
+91 W,retired,"Nimiq 4i (Directv 2, DBS 2)",HS-601,Telesat Canada Ltd.,2923,3-Aug-1994
+91 W,active,Nimiq 6,LS-1300,Telesat Canada Ltd.,4745,17-May-2012
+91 W,active,Intelsat 40E (TEMPO),LS-1300,Intelsat,Nan,7-Apr-2023
+91 W,active,Galaxy 32 (Galaxy 17R),LS-1300,Intelsat,3300,12-Nov-2022
+90 W,deorbited,Echostar 3,A2100AX,EchoStar Corporation,3674,5-Oct-1997
+89 W,active,"Galaxy 28 (G-28, Telstar 8, Intelsat Americas 8, IA 8)",LS-1300S,Intelsat,5493,23-Jun-2005
+89 W,testing,Viasat 3 Americas (VS-3 Americas),BSS-702HP,ViaSat Inc,6400,1-May-2023
+89 W,active,Galaxy 36 (Galaxy 28R),LS-1300,Intelsat,3150,13-Dec-2022
+87 W,deorbited,Astra 3A,BSS-376HP,SES S.A.,1500,29-Mar-2002
+87 W,active,"SES 2 (AMC 5R, AMC 26)",GEOStar-2,SES S.A.,3200,21-Sep-2011
+87 W,active,"Tupac Katari 1 (TKSat 1, Tupac Katari Sat 1)",DFH-4 Bus,Bolivian Space Agency (ABE),5100,20-Dec-2013
+86 W,active,Sirius FM-5 (Radiosat 5),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,5820,30-Jun-2009
+86 W,retired,Nimiq 2 (Telesat-DTH 2),A2100AX,Telesat Canada Ltd.,3600,29-Dec-2002
+86 W,retired,Nimiq 1 (Telesat-DTH 1),A2100AX,Telesat Canada Ltd.,3600,20-May-1999
+86 W,retired,"Echostar 12 (Rainbow 1, Cablevision 1)",A2100AXS,EchoStar Corporation,4328,17-Jul-2003
+85 W,retired,AMC 2 (GE 2),A2100A,SES S.A.,2648,30-Jan-1997
+85 W,retired,AMC 16 (GE 16),A2100AXS,SES S.A.,4065,17-Dec-2004
+85 W,active,Galaxy 17 (G-17),Spacebus-3000B3,Intelsat,4100,4-May-2007
+85 W,failed,Sirius XM7 (SXM-7),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,7000,13-Dec-2020
+85 W,active,Sirius XM8 (SXM-8),LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,7000,6-Jun-2021
+85 W,active,"Sirius XM9 (SXM9, SXM-9)",LS-1300,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,7000,5-Dec-2024
+85 W,active,XM 3 (XM Rhythm),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,4703,1-Mar-2005
+84 W,retired,"Hispasat 84W-1 (H84W-1, Hispasat 1C, DFS 3)",Spacebus-3000B2,Hispasat,3112,4-Feb-2000
+84 W,active,"Star One D1 (Hispasat 84W-2, H84W-2)",LS-1300,Star One (EMBRATEL),6433,20-Dec-2016
+83 W,active,"Nuview Alpha (Anuvu Alpha, AstranisAero West)",MicroGEO,Astranis Space Technologies Corp.,400,29-Dec-2024
+83 W,active,"Nuview Bravo (Anuvu Bravo, AstranisAero East)",MicroGEO,Astranis Space Technologies Corp.,400,29-Dec-2024
+83 W,deorbited,AMC 9,Spacebus-3000B3,SES S.A.,4100,7-Jun-2003
+83 W,retired,AMC 18 (GE 18),A2100A,SES S.A.,2081,8-Dec-2006
+82 W,retired,"Nimiq 3 (DirecTV-3, DBS-3, Nimiq 2i)",HS-601,Telesat Canada Ltd.,2923,10-Jul-1995
+82 W,active,Nimiq 4,Eurostar-3000S,Telesat Canada Ltd.,4850,20-Sep-2008
+81 W,deorbited,"AMC 5 (GE 5, Nahuel 1B)",Spacebus-2000,SES S.A.,1698,28-Oct-1998
+81 W,deorbited,"Intelsat 3R (IS 3R, PAS 3R)",HS-601,Intelsat,2920,12-Jan-1996
+81 W,deorbited,Galaxy 9 (G-9),HS-376,Intelsat,1209,23-May-1996
+81 W,active,ARSAT 2,ARSat-Bus,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),2900,30-Sep-2015
+81 W,planned,ARSAT SG1 (ARSAT 3),ARSat-Bus,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),2000,30-Dec-2025
+80 W,deorbited,"Intelsat 603 (IS-603, Intelsar 6 III, Intelsat 6 3)",HS-389,Intelsat,4215,14-Mar-1990
+79 W,deorbited,SatCom C3,AS-3000,SES S.A.,1169,10-Sep-1992
+79 W,active,"Sky-Mexico 1 (RB-2, SKYM-1, DIRECTV KU-79W)",GEOStar-2,"DirecTV, Inc.",2475,27-May-2015
+78 W,deorbited,Venesat 1 (Simon Bolivar 1),DFH-4 Bus,Venesat,5049,29-Oct-2008
+77 W,deorbited,Galaxy 4R (G-4R),HS-601HP,Intelsat,3716,19-Apr-2000
+77 W,active,QuetzSat 1,LS-1300,SES S.A.,5514,29-Sep-2011
+77 W,retired,Echostar 1 (USABSS-16),AS-7000,EchoStar Corporation,3287,28-Dec-1995
+77 W,deorbited,Echostar 8,LS-1300,EchoStar Corporation,4660,21-Aug-2002
+77 W,retired,Echostar 4,A2100AX,EchoStar Corporation,3478,7-Sep-1998
+76 W,retired,XM 4 (XM Blues),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,5193,30-Oct-2006
+76 W,active,"Intelsat 16 (IS-16, PAS-11R)",GEOStar-2,Intelsat,2525,12-Feb-2010
+75 W,active,Star One C3,GEOStar-2,Star One (EMBRATEL),3225,10-Nov-2012
+75 W,active,SGDC 1,Spacebus-4000C4,Visiona Tecnologia Espacial S.A.,5735,4-May-2017
+74 W,active,"Hispasat 74W-1 (Amazonas 4, AMZ4, Amazonas 4A)",GEOStar-2,Hispasat,3000,22-Mar-2014
+74 W,active,Horizons 2,GEOStar-2,SKY Perfect JSAT Corporation/Intelsat,2304,21-Dec-2007
+73 W,retired,Astra 1D,HS-601,SES S.A.,2924,1-Nov-1994
+73 W,active,Nimiq 5 (EchoStar-72W),LS-1300,Telesat Canada Ltd.,4745,18-Sep-2009
+72 W,active,Hylas 2,GEOStar-2,Avanti Communications Ltd,3311,2-Aug-2012
+72 W,active,ARSAT 1,ARSat-Bus,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),2900,16-Oct-2014
+72 W,retired,Nahuel 1,Spacebus-2000,ARSAT (Empresa Argentina de Soluciones Satelitales Sociedad Anonima),1790,30-Jan-1997
+72 W,retired,Astra 2C,BSS-601HP,SES S.A.,3643,16-Jun-2001
+72 W,active,"AMC 3 (GE 3, Eagle-1)",A2100A,SES S.A.,2845,4-Sep-1997
+70 W,active,"Star One C4 (Hispasat 70W-1, H70W-1)",LS-1300,Star One (EMBRATEL),5565,15-Jul-2015
+70 W,active,Viasat 2 (VS-2),BSS-702HP,ViaSat Inc,6418,1-Jun-2017
+70 W,active,Star One D2,LS-1300,Star One (EMBRATEL),6190,30-Jul-2021
+68 W,retired,Brasilsat B1,HS-376W,Star One (EMBRATEL),1774,11-Aug-1994
+68 W,retired,Brasilsat B2,HS-376W,Star One (EMBRATEL),1780,28-Mar-1995
+67 W,retired,Astra 1H,BSS-601HP,SES S.A.,3690,18-Jun-1999
+67 W,active,SES 10 (Simón Bolivar 2),Eurostar-3000,SES S.A.,5300,30-Mar-2017
+67 W,active,SES 17,Spacebus NEO,SES S.A.,6411,23-Oct-2021
+65 W,active,Eutelsat 65 West A (E65WA),LS-1300,Eutelsat Communications S.A.,6707,9-Mar-2016
+65 W,retired,Brasilsat B3,HS-376W,Star One (EMBRATEL),1780,4-Feb-1998
+65 W,active,Star One C2,Spacebus-3000B3,Star One (EMBRATEL),4100,18-Apr-2008
+63 W,retired,Telstar 14 (Estrela do Sul 1),LS-1300,Telesat Canada Ltd.,4694,11-Jan-2004
+63 W,active,Telstar 19V (Telstar 19 VANTAGE),LS-1300,Telesat Canada Ltd.,7075,22-Jul-2018
+63 W,active,"Telstar 14R (Estrela do Sul 2, EDS 2)",LS-1300,Telesat Canada Ltd.,5000,20-May-2011
+61 W,active,Amazonas 2 (AMZ2),Eurostar-3000,Hispasat,5460,1-Oct-2009
+61 W,active,Amazonas 3 (AMZ3),LS-1300,Hispasat,6265,7-Feb-2013
+61 W,active,Echostar 16 (Echostar XVI),LS-1300,EchoStar Corporation,6650,20-Nov-2012
+61 W,active,Amazonas 5 (AMZ5),LS-1300,Hispasat,5900,11-Sep-2017
+61 W,active,"Echostar 18 (EchoStar XVIII, USABSS-41)",LS-1300,EchoStar Corporation,6000,16-Jun-2016
+61 W,active,"Amazonas Nexus (Amazonas Nexus 6, AMZ-NX, Intelsat 46, IS-46)",Spacebus NEO,Hispasat,4146,6-Feb-2023
+58 W,active,"Intelsat 21 (IS-21, PAS-21)",BSS-702MP,Intelsat,5984,19-Aug-2012
+55 W,retired,"Inmarsat-3F2 (Inmarsat 3F2, I3F2, AOR-E)",AS-4000,Inmarsat plc,1110,6-Sep-1996
+55 W,failed,Intelsat 27 (IS-27),BSS-702MP,Intelsat,6203,1-Feb-2013
+55 W,active,"Inmarsat GX2 (Inmarsat 5F2, I5-AOR, GX2)",BSS-702HP,Inmarsat plc,6104,1-Feb-2015
+55 W,active,"Intelsat 34 (IS-34, Hispasat 55W-2, H55W-2)",LS-1300,Intelsat,3300,18-Aug-2015
+54 W,retired,"Inmarsat-3F4 (Inmarsat 3 F4, I3F4, AOR-W)",AS-4000,Inmarsat plc,2079,4-Jun-1997
+54 W,active,"Inmarsat-3F5 (Inmarsat 3F5, I3F5, IND-W)",AS-4000,Inmarsat plc,1980,22-Jan-1998
+53 W,active,Intelsat 23 (IS-23),GEOStar-2,Intelsat,2681,14-Oct-2012
+53 W,retired,"Intelsat 707 (IS-707, Intelsat 7-F7)",LS-1300,Intelsat,4180,14-Mar-1996
+50 W,active,Intelsat 902 (IS-902),LS-1300,Intelsat,4723,30-Aug-2001
+50 W,failed,Intelsat 29E (IS-29E),BSS-702MP,Intelsat,6552,28-Jan-2016
+49 W,disabled,AOneSat 1,Express-1000,AOneSat Communications AG,1500,31-Dec-2020
+47 W,active,SES 14,Eurostar-3000EOR,SES S.A.,4423,25-Jan-2018
+47 W,deorbited,NSS 703 (Intelsat 703),LS-1300,SES S.A.,3642,6-Oct-1994
+47 W,deorbited,NSS 806 (Intelsat 806),AS-7000,SES S.A.,3720,19-Feb-1998
+45 W,active,"Intelsat 14 (IS-14, PAS 14)",LS-1300,Intelsat,5663,23-Nov-2009
+43 W,retired,"Intelsat 11 (IS-11, PAS-11)",GEOStar-2,Intelsat,2450,5-Oct-2007
+43 W,active,"Intelsat 32e (IS-32e, SKY Brasil-1, Sky-B1)",Eurostar-3000,Intelsat,6300,14-Feb-2017
+40 W,active,SES 6,Eurostar-3000,SES S.A.,6140,3-Jun-2013
+39 W,deorbited,XM 1 (XM Roll),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,4682,8-May-2001
+37 W,active,Telstar 11N (Telstar 11R),LS-1300,Telesat Canada Ltd.,4012,26-Feb-2009
+37 W,active,"NSS 10 (AMC 12, Star One C12, Worldsat 2, GE 1i)",Spacebus-4000C3,SES S.A.,4953,3-Feb-2005
+36 W,deorbited,Hispasat 55W-1 (Amazonas 1),Eurostar-3000S,Hispasat,4545,4-Aug-2004
+36 W,active,"Hispasat 36W-1 (H36W-1, Hispasat AG1, HAG1, Hispasat Advanced Generation 1, Hispasat 2A)",SmallGEO (Luxor) bus,Hispasat,3343,28-Jan-2017
+34 W,retired,Skynet 4F,ECS Bus,Paradigm Secure Communications Ltd (EADS Company),1500,7-Feb-2001
+34 W,active,"Hylas 4 (Hylas Africa, Hylas 5)",GEOStar-3,Avanti Communications Ltd,4050,5-Apr-2018
+34 W,active,Intelsat 35e,BSS-702MP,Intelsat,6761,5-Jul-2017
+32 W,active,Intelsat 28 (Intelsat New Dawn),GEOStar-2,Intelsat,3000,22-Apr-2011
+32 W,retired,Intelsat 903 (IS-903),LS-1300,Intelsat,4723,30-Mar-2002
+32 W,active,"Intelsat 25 (Protostar 1, Protostar I, Chinasat 8, Zhongxing 8, IS-25)",LS-1300,Intelsat,4180,7-Jul-2008
+30 W,active,"Hispasat 30W-5 (H30W-5, Hispasat 1E)",LS-1300,Hispasat,5320,29-Dec-2010
+30 W,active,"Hispasat 30W-6 (H30W-6, Hispasat 1F)",LS-1300,Hispasat,6092,6-Mar-2018
+30 W,active,XTAR-LANT (Spainsat 1),LS-1300,XTAR LLC,3408,11-Mar-2006
+29 W,deorbited,"Intelsat 705 (IS-705, Intelsat 7-F5)",LS-1300,Intelsat,3653,22-Mar-1995
+29 W,retired,Intelsat 801 (IS-801),AS-7000,Intelsat,3447,28-Feb-1997
+29 W,retired,"Intelsat 701 (IS-701, Intelsat 7-F1)",LS-1300,Intelsat,3642,22-Oct-1993
+29 W,active,Intelsat 904 (IS-904),LS-1300,Intelsat,4680,23-Feb-2002
+28 W,failed,"Inmarsat-6 F2 (Inmarsat GX 6B, I6-F2, GX6B)",Eurostar-3000EOR,Inmarsat plc,5470,18-Feb-2023
+27 W,retired,"Intelsat 901 (IS-901, IS-901)",LS-1300,Intelsat,4723,9-Jun-2001
+27 W,retired,Intelsat 907 (IS-907),LS-1300,Intelsat,4685,15-Feb-2003
+27 W,deorbited,XM 2 (XM Rock),BSS-702,XM Satellite Radio Holdings Inc./Sirius Satellite Radio,4682,18-Mar-2001
+25 W,active,AlComSat 1,DFH-4 Bus,Agence Spatiale Algerienne (ASAL),5200,11-Dec-2017
+22 W,active,SES 4 (NSS 14),LS-1300,SES S.A.,6180,14-Feb-2012
+20 W,active,Al Yah 3,GEOStar-2,Al Yah Satellite Communications Company PrJSC (Yahsat),3795,25-Jan-2018
+20 W,retired,NSS 7,A2100AX,SES S.A.,4692,16-Apr-2002
+19 W,moving,Arcturus (Aurora 4A),MicroGEO,Astranis Space Technologies Corp.,400,1-May-2023
+18 W,active,Skynet 5C,Eurostar-3000S,Paradigm Secure Communications Ltd (EADS Company),4638,12-Jun-2008
+18 W,active,Intelsat 37e,BSS-702MP,Intelsat,6438,29-Sep-2017
+18 W,deorbited,"Intelsat 7 (IS-7, PAS-7)",LS-1300,Intelsat,3833,16-Sep-1998
+16 W,testing,"Eutelsat Hot Bird 13E (HB13E, Eutelsat 9A, E9A, Eurobird 9A, Hot Bird 7A, Hotbird 7A)",Spacebus-3000B3,Eutelsat Communications S.A.,4100,11-Mar-2006
+16 W,disabled,"ABS-3 (Agila 2, Mabuhay 1, ABS 5)",LS-1300,ABS,3775,19-Aug-1997
+16 W,active,"Luch 5B (Loutch-5B, Луч-5Б)",Express-1000A,Roscosmos (Russian Federal Space Agency),1140,2-Nov-2012
+15 W,active,Telstar 12V (Telstar 12 Vantage),Eurostar-3000,Telesat Canada Ltd.,4900,24-Nov-2015
+14 W,active,Express AM8,Express-1000SN,Russian Satellite Communications Company,2100,14-Sep-2015
+12 W,active,"Eutelsat 12 West G (E12WG, Eutelsat Hot Bird 13C, HB13C, HB9, Hotbird 9, Hot Bird 9)",Eurostar-3000,Eutelsat Communications S.A.,4880,20-Dec-2008
+12 W,retired,"Eutelsat 12 West E (E12WE, Afghansat 1, E48D, E48B, W2M, Eutelsat W2M, Eutelsat 28B)",I-3K (I-3000) Bus,Eutelsat Communications S.A.,3460,20-Dec-2008
+12 W,retired,"Eutelsat 12 West B (E12WB, E8WA, AB2, Atlantic Bird 2, Eutelsat 8 West A)",Spacebus-3000B2,Eutelsat Communications S.A.,3150,25-Sep-2001
+11 W,deorbited,Express A3 (Ekspress 3A),MSS-2500-GSO,Russian Satellite Communications Company,2600,24-Jun-2000
+11 W,active,Express AM44 (Ekspress AM-44),MSS-2500-GSO,Russian Satellite Communications Company,2560,11-Feb-2009
+10 W,active,"HellasSat 2 (HS 2, Hellas Sat 2, Intelsat K-TV, NSS K-TV)",Eurostar-2000+,Hellas-Sat (Arabsat subsidiary),3300,12-May-2003
+8 W,retired,"Eutelsat 8 West D (E8WD, Eutelsat 3A, E3A, XINNUO 3, Sinosat 3, ChinaSat 5C)",DFH-3 Bus,Eutelsat Communications S.A.,2200,31-May-2007
+8 W,retired,Telecom 2D,Eurostar-2000,Eutelsat Communications S.A.,2275,8-Aug-1996
+8 W,active,Eutelsat 8 West B,Spacebus-4000C3,Eutelsat Communications S.A.,5600,18-Aug-2015
+7 W,active,Nilesat 201,Spacebus-4000B2,Nilesat (The Egyptian Satellite Co.),3200,4-Aug-2010
+7 W,active,"Eutelsat 7 West A (E7WA, AB7, Atlantic Bird 7, Nilebird, Atlantic Bird 4R, Nilesat 104)",Eurostar-3000,Eutelsat Communications S.A.,4600,24-Sep-2011
+7 W,failed,Kizuna (WINDS),WINDS,JAXA (Japan Aerospace Exploration Agency),4850,23-Feb-2008
+7 W,deorbited,Nilesat 101,Eurostar-2000,Nilesat (The Egyptian Satellite Co.),1840,28-Apr-1998
+7 W,retired,Nilesat 102,Eurostar-2000,Nilesat (The Egyptian Satellite Co.),1827,17-Aug-2000
+7 W,active,Nilesat 301,Spacebus-4000B2,Nilesat (The Egyptian Satellite Co.),3938,6-Aug-2022
+5 W,active,Eutelsat 5 West B (E5WB),GEOStar-2,Eutelsat Communications S.A.,2864,9-Oct-2019
+5 W,deorbited,"Eutelsat 5 West A (E5WA, AB3, Atlantic Bird 3, Stellat 5)",Spacebus-3000B3,Eutelsat Communications S.A.,4050,5-Jul-2002
+4 W,retired,Amos 2,Amos Bus,Spacecom Satellite Communications,1360,27-Dec-2003
+4 W,retired,Thor 3,HS-376HP,Space Norway AS,1400,10-Jun-1998
+4 W,active,Amos 3 (Amos 60),Amos Bus,Spacecom Satellite Communications,1263,28-Apr-2008
+4 W,failed,Amos 6,Amos Bus,Spacecom Satellite Communications,5500,1-Sep-2016
+4 W,planned,Amos 8,Amos Bus,Spacecom Satellite Communications,Nan,30-Dec-2024
+4 W,active,Dror 1 (PR-8000),Amos 4000,Government of Israel,4000,13-Jul-2025
+3 W,active,ABS-3A,BSS-702SP,ABS,1954,2-Mar-2015
+1 W,active,"Thor 6 (Intelsat 1W, IS-1W)",Spacebus-4000B2,Space Norway AS,3049,29-Oct-2009
+1 W,active,Thor 7,LS-1300,Space Norway AS,4600,26-Apr-2015
+1 W,active,Skynet 4E,ECS Bus,Paradigm Secure Communications Ltd (EADS Company),1500,26-Feb-1999
+1 W,active,"Intelsat 10-02 + MEV2 (Intelsat 1002, Intelsat Alpha-2, Intelsat X-02, IS-1002, MEV 2)",Eurostar-3000,Intelsat,5576,16-Jun-2004
+1 W,active,Thor 5 (Thor 2R),GEOStar-2,Space Norway AS,1960,11-Feb-2008
